@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    </head>
+
+<body class='splash-page wsite-background wsite-theme-light'>
+	<div id="wrapper">
+	<div id="wrapper-inner">
+	<div class="splash-container">
+		<div id="splash-wrap">
+		
+		<div id="header-wrap">
+				<div id="logo">{logo}</div>
+				<div id="nav">{menu}</div>
+		</div><!-- end header-wrap -->  
+	
+		<p>{headline-paragraph:text global="false"}</p>
+	
+		<div id="footer-wrap">
+				{footer}
+		</div><!-- end footer-wrap -->
+		</div><!-- end splash-container -->
+	</div><!-- end splash-wrap -->
+	</div><!-- end wrapper-inner -->
+	</div><!-- end wrapper --> 
+<div style='display:none'>{content}</div>
+
+	<!-- JavaScript -->
+	<script type="text/javascript" src="/files/theme/jquery.jqtransform.js" ></script>
+	<script language="javascript">
+		jQuery(function() {
+			var $ = jQuery;
+			$('#main-wrap .wsite-form-radio-container').jqTransform();
+		});
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    </head>
+
+<body class='landing-page  wsite-theme-light'>
+    <div id="header-wrap">
+        <div class="container">
+			<div id="logo">{logo}</div>
+			<div id="nav">{menu}</div>
+        </div><!-- end container -->
+    </div><!-- end header-wrap -->  
+
+    <div id="banner-wrap">
+        <div class="banner">
+		<div class="container">
+			<h2>{headline:text global="false"}</h2>
+			<p>{headline-paragraph:text global="false"}</p>
+			<div class="button-wrap">{action:button global="false"}</div>
+        </div><!-- end container -->
+		</div><!-- end banner -->
+    </div><!-- end banner-wrap -->
+
+    <div id="main-wrap">
+        <div class="container">
+   			{content}
+        </div><!-- end container -->
+    </div><!-- end main-wrap -->
+
+    <div id="footer-wrap">
+        <div class="container">
+       		{footer}
+        </div><!-- end container -->
+    </div><!-- end footer-wrap -->
+	
+	<!-- JavaScript -->
+	<script type="text/javascript" src="/files/theme/jquery.jqtransform.js" ></script>
+	<script language="javascript">
+		jQuery(function() {
+			var $ = jQuery;
+			$('#main-wrap .wsite-form-radio-container').jqTransform();
+			var navPosition = $('#nav').offset().top - 15;
+			$(window).scroll(function(e) {
+				if ( $(window).scrollTop() > navPosition) {
+					$('#banner-wrap').css({'margin-top': $('#header-wrap').outerHeight() + 'px'});
+					$('#header-wrap').css({'position': 'fixed', 'top': (-navPosition) + 'px', 'z-index': '1'});
+				} else {
+					$('#header-wrap').css({'position': 'static'});
+					$('#banner-wrap').css({'margin-top': '0px'});
+				}
+			});
+		});
+	</script>
+</body>
+
+</html>
