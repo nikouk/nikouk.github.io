@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x" timestamp="1513900575030">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x" timestamp="1513900742834">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4155068627" ref="index"/>
+    <file name="index.css" crc="523962700" ref="index"/>
     <file name="iefonts_index.css" crc="4181757697" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -41,5 +41,5 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="20371910" seo="true" mt="1513900543319" redirect="true"/>
+  <file name="index.html" crc="320513992" seo="true" mt="1513900721139" redirect="true"/>
 </manifest>
