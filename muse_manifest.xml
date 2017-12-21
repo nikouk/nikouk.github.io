@@ -1,0 +1,45 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x" timestamp="1513900575030">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4155068627" ref="index"/>
+    <file name="iefonts_index.css" crc="4181757697" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="wisley-20-crop-u124.jpg" crc="4241831712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="wisley-21-crop-u263.jpg" crc="160253795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wisley-22-crop-u283.jpg" crc="4000534513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wisley-23-crop-u303.jpg" crc="3799750986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wisley-26-crop-u323.jpg" crc="345880545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wisley-27-crop-u343.jpg" crc="3805176249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wisley-28-crop-u363.jpg" crc="529696444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="20371910" seo="true" mt="1513900543319" redirect="true"/>
+</manifest>
