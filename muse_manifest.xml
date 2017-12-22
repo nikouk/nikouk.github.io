@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x" timestamp="1513976156827">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x" timestamp="1513976270680">
   <folder name="phone">
     <folder name="css">
       <file name="photography.css" crc="295422135" ref="phone>photography"/>
@@ -6,7 +6,7 @@
       <file name="index.css" crc="486939893" ref="phone>index"/>
       <file name="iefonts_index.css" crc="146728998" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4085396595" seo="true" mt="1513976149773" redirect="true"/>
+    <file name="index.html" crc="4085396595" seo="true" mt="1513976244724" redirect="true"/>
     <file name="photography.html" crc="348967599" seo="true" mt="1513976143222" redirect="true"/>
   </folder>
   <folder name="css">
