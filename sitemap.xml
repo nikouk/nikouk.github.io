@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nikouk.github.io/index.html</loc>
-    <lastmod>2017-12-21</lastmod>
+    <lastmod>2017-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,5 +26,26 @@
     <image:image>
       <image:loc>http://nikouk.github.io/images/wisley-28-crop-u363.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/photography.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/wisley-24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/wisley-26318x212.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/wisley-25.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/contact.html</loc>
+    <lastmod>2017-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
