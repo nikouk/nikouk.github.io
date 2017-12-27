@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514409860107">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514410086923">
   <folder name="phone">
     <folder name="css">
-      <file name="photography.css" crc="91820152" ref="phone>photography"/>
-      <file name="iefonts_photography.css" crc="4104318420" ref="phone>photography"/>
+      <file name="photography.css" crc="432814753" ref="phone>photography"/>
+      <file name="iefonts_photography.css" crc="369780463" ref="phone>photography"/>
       <file name="index.css" crc="161989757" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4019321167" ref="phone>index"/>
       <file name="master_a-master.css" crc="417357339" ref="phone>photography:phone>index"/>
     </folder>
     <file name="index.html" crc="301644750" seo="true" mt="1514409641398" redirect="true"/>
-    <file name="photography.html" crc="281595457" seo="true" mt="1514409847552" redirect="true"/>
+    <file name="photography.html" crc="41862856" seo="true" mt="1514410057815" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
