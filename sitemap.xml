@@ -2,64 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nikouk.github.io/index.html</loc>
-    <lastmod>2017-12-22</lastmod>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://nikouk.github.io/phone/index.html"/>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-202.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-21.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-212.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-22.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-222.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-23.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-232.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-24.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-262.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-25.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-272.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-26.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-282.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/wisleycompressed-29.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nikouk.github.io/photography.html</loc>
-    <lastmod>2017-12-22</lastmod>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://nikouk.github.io/phone/photography.html"/>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-24.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisley-20.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-26318x212.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisley-21.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-25.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/wisley-22.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/r001-009.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/down%20arrow%20white.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/img_6204.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/down%20arrow%20white_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/r001-005.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/img_6230.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/r001-002.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/img_6199.jpg</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/blog.html</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/gallery.html</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
