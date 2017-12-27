@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514409756271">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514409860107">
   <folder name="phone">
     <folder name="css">
-      <file name="photography.css" crc="246810659" ref="phone>photography"/>
-      <file name="iefonts_photography.css" crc="76011010" ref="phone>photography"/>
+      <file name="photography.css" crc="91820152" ref="phone>photography"/>
+      <file name="iefonts_photography.css" crc="4104318420" ref="phone>photography"/>
       <file name="index.css" crc="161989757" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4019321167" ref="phone>index"/>
       <file name="master_a-master.css" crc="417357339" ref="phone>photography:phone>index"/>
     </folder>
     <file name="index.html" crc="301644750" seo="true" mt="1514409641398" redirect="true"/>
-    <file name="photography.html" crc="3882807888" seo="true" mt="1514409729436" redirect="true"/>
+    <file name="photography.html" crc="281595457" seo="true" mt="1514409847552" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -36,7 +36,7 @@
     <file name="require.js" crc="3861931657" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
     <file name="jquery.musemenu.js" crc="4286030528" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="photography:phone>photography"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="photography"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:phone>index:photography:phone>photography"/>
