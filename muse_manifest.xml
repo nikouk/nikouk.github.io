@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514408634465">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514409756271">
   <folder name="phone">
     <folder name="css">
-      <file name="photography.css" crc="4270905275" ref="phone>photography"/>
-      <file name="iefonts_photography.css" crc="3825773551" ref="phone>photography"/>
-      <file name="index.css" crc="499849443" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="361765634" ref="phone>index"/>
-      <file name="master_a-master.css" crc="205719042" ref="phone>photography:phone>index"/>
+      <file name="photography.css" crc="246810659" ref="phone>photography"/>
+      <file name="iefonts_photography.css" crc="76011010" ref="phone>photography"/>
+      <file name="index.css" crc="161989757" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4019321167" ref="phone>index"/>
+      <file name="master_a-master.css" crc="417357339" ref="phone>photography:phone>index"/>
     </folder>
-    <file name="index.html" crc="4202233028" seo="true" mt="1514128002579" redirect="true"/>
-    <file name="photography.html" crc="4236000438" seo="true" mt="1514404124675" redirect="true"/>
+    <file name="index.html" crc="301644750" seo="true" mt="1514409641398" redirect="true"/>
+    <file name="photography.html" crc="3882807888" seo="true" mt="1514409729436" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -29,140 +29,64 @@
     <file name="whatinput.js" crc="86476730" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
     <file name="museconfig.js" crc="144853533" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
-    <file name="webpro.js" crc="416662029" ref="index:phone>index:photography"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="index:phone>index:photography"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="index:phone>index:photography"/>
-    <file name="touchswipe.js" crc="432264157" ref="index:phone>index:photography"/>
+    <file name="webpro.js" crc="416662029" ref="index:phone>index:photography:phone>photography"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:phone>index:photography:phone>photography"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:phone>index:photography:phone>photography"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:phone>index:photography:phone>photography"/>
     <file name="require.js" crc="3861931657" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
     <file name="jquery.musemenu.js" crc="4286030528" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:photography:phone>index:phone>photography:blog:gallery"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="photography"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="photography:phone>photography"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:phone>index:photography"/>
-    <file name="loading.gif" crc="3815509949" ref="index:phone>index:photography"/>
-    <file name="r001-009.jpg" crc="210286389" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="img_6204.jpg" crc="4259085526" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="r001-005.jpg" crc="4028672469" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="img_6230.jpg" crc="3954316519" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="r001-002.jpg" crc="85360970" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="img_6199.jpg" crc="4086320137" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-20259x173.jpg" crc="512882709" seo="true" ref="phone>index">
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index:photography:phone>photography"/>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index:photography:phone>photography"/>
+    <file name="wisleycompressed-21.jpg" crc="51770636" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wisley-21259x173.jpg" crc="3938852528" seo="true" ref="phone>index">
+    <file name="wisleycompressed-22.jpg" crc="3780952420" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wisley-22259x173.jpg" crc="446922690" seo="true" ref="phone>index">
+    <file name="wisleycompressed-23.jpg" crc="4014489691" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wisley-23259x173.jpg" crc="3878729821" seo="true" ref="phone>index">
+    <file name="wisleycompressed-24.jpg" crc="4128008280" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wisley-26259x173.jpg" crc="4112396110" seo="true" ref="phone>index">
+    <file name="wisleycompressed-25.jpg" crc="175891524" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wisley-27259x173.jpg" crc="3858508312" seo="true" ref="phone>index">
+    <file name="wisleycompressed-26.jpg" crc="3931865406" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wisley-28259x173.jpg" crc="354443341" seo="true" ref="phone>index">
+    <file name="wisleycompressed-27.jpg" crc="4161471780" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wisley-26202x135.jpg" crc="141634425" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-20259x173_2x.jpg" crc="4053373339" seo="true" ref="phone>index">
+    <file name="wisleycompressed-28.jpg" crc="56642359" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wisley-21259x173_2x.jpg" crc="4232083589" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisley-22259x173_2x.jpg" crc="423758190" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisley-23_2x.jpg" crc="427802290" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisley-26_2x.jpg" crc="4143017569" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisley-27_2x.jpg" crc="515597594" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisley-28_2x.jpg" crc="158695340" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisley-2489x134.jpg" crc="4199358180" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-24_2x.jpg" crc="531506362" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-26202x135_2x.jpg" crc="4079933725" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-2589x134.jpg" crc="370322212" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-25_2x.jpg" crc="449029788" seo="true" ref="phone>photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisleycompressed-21.jpg" crc="51770636" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisleycompressed-22.jpg" crc="3780952420" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisleycompressed-23.jpg" crc="4014489691" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisleycompressed-24.jpg" crc="4128008280" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisleycompressed-25.jpg" crc="175891524" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisleycompressed-26.jpg" crc="3931865406" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisleycompressed-27.jpg" crc="4161471780" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisleycompressed-28.jpg" crc="56642359" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wisleycompressed-29.jpg" crc="4060724685" seo="true" ref="index">
+    <file name="wisleycompressed-29.jpg" crc="4060724685" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="arrowmenudown.png" crc="262559161" ref="index:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="wisley-20.jpg" crc="417163756" seo="true" ref="photography">
+    <file name="wisley-20.jpg" crc="417163756" seo="true" ref="photography:phone>photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="wisley-21.jpg" crc="227547288" seo="true" ref="photography">
+    <file name="wisley-21.jpg" crc="227547288" seo="true" ref="photography:phone>photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="wisley-22.jpg" crc="45611777" seo="true" ref="photography">
+    <file name="wisley-22.jpg" crc="45611777" seo="true" ref="photography:phone>photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="down arrow white.png" crc="4093988720" seo="true" ref="photography">
+    <file name="down arrow white.png" crc="4093988720" seo="true" ref="photography:phone>photography">
+      <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="down arrow white_2x.png" crc="190681773" seo="true" ref="photography">
+    <file name="down arrow white_2x.png" crc="190681773" seo="true" ref="photography:phone>photography">
+      <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
   </folder>
