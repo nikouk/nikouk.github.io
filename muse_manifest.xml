@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514567701996">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514567880806">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3881042021" ref="index"/>
     <file name="photography.css" crc="4244896411" ref="photography"/>
     <file name="master_a-master.css" crc="4255760784" ref="index:gallery:prints:photography:equipment"/>
     <file name="gallery.css" crc="391362682" ref="gallery"/>
-    <file name="prints.css" crc="508011638" ref="prints"/>
+    <file name="prints.css" crc="428609859" ref="prints"/>
     <file name="equipment.css" crc="38456169" ref="equipment"/>
   </folder>
   <folder name="scripts">
@@ -45,16 +45,16 @@
     <file name="pasted image 232x299.png" crc="262687299" seo="true" ref="index:gallery:prints:equipment:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="prints" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="equipment" alt=""/>
-      <caption webpage="prints" alt=""/>
     </file>
     <file name="pasted image 232x299_2x.png" crc="3953739151" seo="true" ref="index:gallery:prints:equipment:photography">
       <caption webpage="index" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="prints" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="equipment" alt=""/>
-      <caption webpage="prints" alt=""/>
     </file>
     <file name="prints.png" crc="340562911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -103,15 +103,11 @@
     <file name="1_a57fa9d1_large.png" crc="4225710641" seo="true" ref="prints">
       <caption webpage="prints" alt=""/>
     </file>
-    <file name="u898-r.png" crc="3967030309" ref="prints"/>
-    <file name="u898-r_2x.png" crc="3855984375" ref="prints"/>
     <file name="u923-4.png" crc="95124973" ref="prints"/>
     <file name="u923-4_2x.png" crc="150081444" ref="prints"/>
     <file name="1_7f54f43a_large.png" crc="4252615589" seo="true" ref="prints">
       <caption webpage="prints" alt=""/>
     </file>
-    <file name="u895-r.png" crc="3967030309" ref="prints"/>
-    <file name="u895-r_2x.png" crc="3855984375" ref="prints"/>
     <file name="u920-4.png" crc="244337609" ref="prints"/>
     <file name="u920-4_2x.png" crc="125312729" ref="prints"/>
     <file name="u1249-4.png" crc="380343792" ref="prints"/>
@@ -119,8 +115,6 @@
     <file name="1_d94588f7_large.png" crc="4088408625" seo="true" ref="prints">
       <caption webpage="prints" alt=""/>
     </file>
-    <file name="u903-r.png" crc="3967030309" ref="prints"/>
-    <file name="u903-r_2x.png" crc="3855984375" ref="prints"/>
     <file name="u926-4.png" crc="262417143" ref="prints"/>
     <file name="u926-4_2x.png" crc="4024691362" ref="prints"/>
     <file name="u746-4.png" crc="273363159" ref="equipment"/>
@@ -285,10 +279,16 @@
     <file name="r001-010_2x.jpg" crc="511420526" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
+    <file name="u898_states-r.png" crc="3967030309" ref="prints"/>
+    <file name="u898_states-r_2x.png" crc="3855984375" ref="prints"/>
+    <file name="u895_states-r.png" crc="3967030309" ref="prints"/>
+    <file name="u895_states-r_2x.png" crc="3855984375" ref="prints"/>
+    <file name="u903_states-r.png" crc="3967030309" ref="prints"/>
+    <file name="u903_states-r_2x.png" crc="3855984375" ref="prints"/>
   </folder>
   <file name="index.html" crc="3960902377" seo="true" mt="1514567585999" redirect="true"/>
   <file name="photography.html" crc="4029880127" seo="true" mt="1514567155273" redirect="true"/>
   <file name="gallery.html" crc="4075767960" seo="true" mt="1514563203882" redirect="true"/>
-  <file name="prints.html" crc="495594097" seo="true" mt="1514567647214" redirect="true"/>
+  <file name="prints.html" crc="333511864" seo="true" mt="1514567873922" redirect="true"/>
   <file name="equipment.html" crc="72227929" seo="true" mt="1514563171381" redirect="true"/>
 </manifest>
