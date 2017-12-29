@@ -1,23 +1,24 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514584671083">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514590979007">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="235194443" ref="index"/>
+    <file name="index.css" crc="3975766050" ref="index"/>
     <file name="photography.css" crc="4244896411" ref="photography"/>
-    <file name="master_a-master.css" crc="4255760784" ref="index:gallery:prints:photography:equipment"/>
+    <file name="master_a-master.css" crc="4255760784" ref="index:gallery:prints:photography:equipment:about"/>
     <file name="gallery.css" crc="391362682" ref="gallery"/>
     <file name="prints.css" crc="428609859" ref="prints"/>
     <file name="equipment.css" crc="38456169" ref="equipment"/>
+    <file name="about.css" crc="141898895" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:gallery:prints:equipment"/>
-    <file name="museutils.js" crc="17924269" ref="index:photography:gallery:prints:equipment"/>
-    <file name="whatinput.js" crc="86476730" ref="index:photography:gallery:prints:equipment"/>
-    <file name="museconfig.js" crc="144853533" ref="index:photography:gallery:prints:equipment"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:photography:gallery:prints:equipment"/>
-    <file name="require.js" crc="3861931657" ref="index:photography:gallery:prints:equipment"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:gallery:prints:equipment:about"/>
+    <file name="museutils.js" crc="17924269" ref="index:photography:gallery:prints:equipment:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photography:gallery:prints:equipment:about"/>
+    <file name="museconfig.js" crc="144853533" ref="index:photography:gallery:prints:equipment:about"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:photography:gallery:prints:equipment:about"/>
+    <file name="require.js" crc="3861931657" ref="index:photography:gallery:prints:equipment:about"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:gallery:prints"/>
+    <file name="blank.gif" crc="4208392903" ref="index:gallery:prints:about"/>
     <file name="rocks new new.jpg" crc="4073001285" seo="true" ref="gallery">
       <caption webpage="visual-art" alt=""/>
       <caption webpage="gallery" alt=""/>
@@ -42,19 +43,21 @@
       <caption webpage="visual-art" alt=""/>
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="pasted image 232x299.png" crc="262687299" seo="true" ref="index:gallery:prints:equipment:photography">
+    <file name="pasted image 232x299.png" crc="262687299" seo="true" ref="index:gallery:prints:equipment:photography:about">
       <caption webpage="index" alt=""/>
       <caption webpage="prints" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="equipment" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
-    <file name="pasted image 232x299_2x.png" crc="3953739151" seo="true" ref="index:gallery:prints:equipment:photography">
+    <file name="pasted image 232x299_2x.png" crc="3953739151" seo="true" ref="index:gallery:prints:equipment:photography:about">
       <caption webpage="index" alt=""/>
       <caption webpage="prints" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="equipment" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gallery" alt=""/>
     </file>
     <file name="prints.png" crc="340562911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -291,10 +294,43 @@
     <file name="contact-crop-u1306_2x.png" crc="3818184928" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u1344-4.png" crc="3918194951" ref="about"/>
+    <file name="u1344-4_2x.png" crc="4226103782" ref="about"/>
+    <file name="img_1547-crop-u1371.jpg" crc="535486225" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="img_1547-crop-u1371_2x.jpg" crc="3816701410" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u1387-13.png" crc="45275998" ref="about"/>
+    <file name="u1387-13_2x.png" crc="283801289" ref="about"/>
+    <file name="u1414_states.png" crc="494711088" ref="about"/>
+    <file name="u1414_states_2x.png" crc="221147644" ref="about"/>
+    <file name="u1414_states-r.png" crc="181944500" ref="about"/>
+    <file name="u1414_states-r_2x.png" crc="3903472052" ref="about"/>
+    <file name="insta-crop-u1417.png" crc="4037842609" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="insta-crop-u1417_2x.png" crc="4063321128" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="twitter-crop-u1425.png" crc="4122500347" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="twitter-crop-u1425_2x.png" crc="4115943822" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="about-crop-u1515.png" crc="4060181450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about-crop-u1515_2x.png" crc="4002157582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3952696785" seo="true" mt="1514584665236" redirect="true"/>
+  <file name="index.html" crc="4050086302" seo="true" mt="1514590949394" redirect="true"/>
   <file name="photography.html" crc="4029880127" seo="true" mt="1514567155273" redirect="true"/>
   <file name="gallery.html" crc="4075767960" seo="true" mt="1514563203882" redirect="true"/>
   <file name="prints.html" crc="333511864" seo="true" mt="1514567873922" redirect="true"/>
   <file name="equipment.html" crc="72227929" seo="true" mt="1514563171381" redirect="true"/>
+  <file name="about.html" crc="4152587385" seo="true" mt="1514590970255" redirect="true"/>
 </manifest>

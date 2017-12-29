@@ -41,6 +41,12 @@
     <image:image>
       <image:loc>http://nikouk.github.io/images/contact-crop-u1306_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/about-crop-u1515.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/about-crop-u1515_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nikouk.github.io/photography.html</loc>
@@ -265,6 +271,36 @@
     </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/mic_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/about.html</loc>
+    <lastmod>2017-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/img_1547-crop-u1371.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/img_1547-crop-u1371_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/insta-crop-u1417.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/insta-crop-u1417_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/twitter-crop-u1425.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/twitter-crop-u1425_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
