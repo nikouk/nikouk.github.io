@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514567880806">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514584671083">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3881042021" ref="index"/>
+    <file name="index.css" crc="235194443" ref="index"/>
     <file name="photography.css" crc="4244896411" ref="photography"/>
     <file name="master_a-master.css" crc="4255760784" ref="index:gallery:prints:photography:equipment"/>
     <file name="gallery.css" crc="391362682" ref="gallery"/>
@@ -44,15 +44,15 @@
     </file>
     <file name="pasted image 232x299.png" crc="262687299" seo="true" ref="index:gallery:prints:equipment:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="gallery" alt=""/>
       <caption webpage="prints" alt=""/>
+      <caption webpage="gallery" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="equipment" alt=""/>
     </file>
     <file name="pasted image 232x299_2x.png" crc="3953739151" seo="true" ref="index:gallery:prints:equipment:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="gallery" alt=""/>
       <caption webpage="prints" alt=""/>
+      <caption webpage="gallery" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="equipment" alt=""/>
     </file>
@@ -285,8 +285,14 @@
     <file name="u895_states-r_2x.png" crc="3855984375" ref="prints"/>
     <file name="u903_states-r.png" crc="3967030309" ref="prints"/>
     <file name="u903_states-r_2x.png" crc="3855984375" ref="prints"/>
+    <file name="contact-crop-u1306.png" crc="55807330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-crop-u1306_2x.png" crc="3818184928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3960902377" seo="true" mt="1514567585999" redirect="true"/>
+  <file name="index.html" crc="3952696785" seo="true" mt="1514584665236" redirect="true"/>
   <file name="photography.html" crc="4029880127" seo="true" mt="1514567155273" redirect="true"/>
   <file name="gallery.html" crc="4075767960" seo="true" mt="1514563203882" redirect="true"/>
   <file name="prints.html" crc="333511864" seo="true" mt="1514567873922" redirect="true"/>
