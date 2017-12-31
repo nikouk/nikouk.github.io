@@ -191,6 +191,24 @@
     <image:image>
       <image:loc>http://nikouk.github.io/images/sphere3_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/2018%202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/2018%202_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/2018%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/2018%201_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/2018%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/2018%203_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nikouk.github.io/prints.html</loc>
