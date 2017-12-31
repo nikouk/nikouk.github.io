@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>http://nikouk.github.io/gallery.html</loc>
-    <lastmod>2017-12-29</lastmod>
+    <lastmod>2017-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -172,6 +172,24 @@
     </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/golden_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/sphere1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/sphere1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/sphere2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/sphere2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/sphere3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/sphere3_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
