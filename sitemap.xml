@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>http://nikouk.github.io/gallery.html</loc>
-    <lastmod>2018-01-01</lastmod>
+    <lastmod>2018-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -162,18 +162,6 @@
       <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/float.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/float_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/golden.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/golden_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nikouk.github.io/images/sphere1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -192,22 +180,22 @@
       <image:loc>http://nikouk.github.io/images/sphere3_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/2018%202.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/fluid.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/2018%202_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/fluid_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/2018%201.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/super%20rich%20kids.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/2018%201_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/super%20rich%20kids_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/2018%203.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/loyalty.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/2018%203_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/loyalty_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>

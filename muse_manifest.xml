@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514851197993">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514908984935">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3975766050" ref="index"/>
     <file name="photography.css" crc="4244896411" ref="photography"/>
     <file name="master_a-master.css" crc="4255760784" ref="index:gallery:prints:photography:equipment:about"/>
-    <file name="gallery.css" crc="4068865772" ref="gallery"/>
+    <file name="gallery.css" crc="4071133997" ref="gallery"/>
     <file name="prints.css" crc="428609859" ref="prints"/>
     <file name="equipment.css" crc="38456169" ref="equipment"/>
     <file name="about.css" crc="141898895" ref="about"/>
@@ -47,17 +47,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="equipment" alt=""/>
       <caption webpage="prints" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="equipment" alt=""/>
     </file>
     <file name="pasted image 232x299_2x.png" crc="3953739151" seo="true" ref="index:gallery:prints:equipment:photography:about">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="equipment" alt=""/>
       <caption webpage="prints" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="equipment" alt=""/>
     </file>
     <file name="prints.png" crc="340562911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -83,24 +83,12 @@
     <file name="photography_2x.png" crc="3759748324" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="float.jpg" crc="3951499695" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="float_2x.jpg" crc="4191094439" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
     <file name="u525-4.png" crc="337811789" ref="gallery"/>
     <file name="u525-4_2x.png" crc="3898947442" ref="gallery"/>
     <file name="u529_states.png" crc="68051099" ref="gallery"/>
     <file name="u529_states_2x.png" crc="297810707" ref="gallery"/>
     <file name="u529_states-r.png" crc="164221658" ref="gallery"/>
     <file name="u529_states-r_2x.png" crc="102155150" ref="gallery"/>
-    <file name="golden.jpg" crc="259936815" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="golden_2x.jpg" crc="141918533" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
     <file name="u1243-4.png" crc="4099482375" ref="prints"/>
     <file name="u1243-4_2x.png" crc="4031915879" ref="prints"/>
     <file name="1_a57fa9d1_large.png" crc="4225710641" seo="true" ref="prints">
@@ -344,28 +332,28 @@
     <file name="sphere3_2x.jpg" crc="385718801" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="2018 2.jpg" crc="4160887736" seo="true" ref="gallery">
+    <file name="fluid.jpg" crc="4082926219" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="2018 2_2x.jpg" crc="506752329" seo="true" ref="gallery">
+    <file name="fluid_2x.jpg" crc="151560399" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="2018 1.jpg" crc="301902855" seo="true" ref="gallery">
+    <file name="super rich kids.jpg" crc="3870206209" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="2018 1_2x.jpg" crc="4144981005" seo="true" ref="gallery">
+    <file name="super rich kids_2x.jpg" crc="3958404032" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="2018 3.jpg" crc="4285896695" seo="true" ref="gallery">
+    <file name="loyalty.jpg" crc="3793488058" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="2018 3_2x.jpg" crc="3933075910" seo="true" ref="gallery">
+    <file name="loyalty_2x.jpg" crc="4028167088" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="141471125" seo="true" mt="1514851167020" redirect="true"/>
   <file name="photography.html" crc="434924910" seo="true" mt="1514851167020" redirect="true"/>
-  <file name="gallery.html" crc="72974719" seo="true" mt="1514851167020" redirect="true"/>
+  <file name="gallery.html" crc="416603407" seo="true" mt="1514908973123" redirect="true"/>
   <file name="prints.html" crc="4134033368" seo="true" mt="1514851167020" redirect="true"/>
   <file name="equipment.html" crc="383724913" seo="true" mt="1514851167020" redirect="true"/>
   <file name="about.html" crc="26871729" seo="true" mt="1514851167020" redirect="true"/>
