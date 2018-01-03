@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514908984935">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1514943240719">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3975766050" ref="index"/>
     <file name="photography.css" crc="4244896411" ref="photography"/>
     <file name="master_a-master.css" crc="4255760784" ref="index:gallery:prints:photography:equipment:about"/>
-    <file name="gallery.css" crc="4071133997" ref="gallery"/>
+    <file name="gallery.css" crc="202936202" ref="gallery"/>
     <file name="prints.css" crc="428609859" ref="prints"/>
     <file name="equipment.css" crc="38456169" ref="equipment"/>
     <file name="about.css" crc="141898895" ref="about"/>
@@ -20,44 +20,44 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:gallery:prints:about"/>
     <file name="rocks new new.jpg" crc="4073001285" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="visual-art" alt=""/>
     </file>
     <file name="rocks new new_2x.jpg" crc="26144401" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="visual-art" alt=""/>
     </file>
     <file name="rocks new.jpg" crc="4006370419" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="visual-art" alt=""/>
     </file>
     <file name="rocks new_2x.jpg" crc="267300556" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="visual-art" alt=""/>
     </file>
     <file name="rocks.jpg" crc="197392066" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="visual-art" alt=""/>
     </file>
     <file name="rocks_2x.jpg" crc="3765104334" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="visual-art" alt=""/>
     </file>
     <file name="pasted image 232x299.png" crc="262687299" seo="true" ref="index:gallery:prints:equipment:photography:about">
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="equipment" alt=""/>
-      <caption webpage="prints" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="prints" alt=""/>
     </file>
     <file name="pasted image 232x299_2x.png" crc="3953739151" seo="true" ref="index:gallery:prints:equipment:photography:about">
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="gallery" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="equipment" alt=""/>
-      <caption webpage="prints" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="prints" alt=""/>
     </file>
     <file name="prints.png" crc="340562911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -350,10 +350,28 @@
     <file name="loyalty_2x.jpg" crc="4028167088" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
+    <file name="breaking.jpg" crc="348633995" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="breaking_2x.jpg" crc="4178374364" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="attention.jpg" crc="396654889" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="attention_2x.jpg" crc="4048548435" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="layering.jpg" crc="3810090506" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="layering_2x.jpg" crc="104644703" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="141471125" seo="true" mt="1514851167020" redirect="true"/>
   <file name="photography.html" crc="434924910" seo="true" mt="1514851167020" redirect="true"/>
-  <file name="gallery.html" crc="416603407" seo="true" mt="1514908973123" redirect="true"/>
+  <file name="gallery.html" crc="3951192143" seo="true" mt="1514943208782" redirect="true"/>
   <file name="prints.html" crc="4134033368" seo="true" mt="1514851167020" redirect="true"/>
   <file name="equipment.html" crc="383724913" seo="true" mt="1514851167020" redirect="true"/>
   <file name="about.html" crc="26871729" seo="true" mt="1514851167020" redirect="true"/>

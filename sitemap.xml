@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>http://nikouk.github.io/gallery.html</loc>
-    <lastmod>2018-01-02</lastmod>
+    <lastmod>2018-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -196,6 +196,24 @@
     </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/loyalty_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/breaking.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/breaking_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/attention.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/attention_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/layering.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/layering_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
