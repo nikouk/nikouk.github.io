@@ -1,379 +1,237 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1515257441860">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1520642532090">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3975766050" ref="index"/>
-    <file name="photography.css" crc="4244896411" ref="photography"/>
-    <file name="master_a-master.css" crc="4255760784" ref="index:gallery:prints:photography:equipment:about"/>
-    <file name="gallery.css" crc="202936202" ref="gallery"/>
-    <file name="prints.css" crc="428609859" ref="prints"/>
-    <file name="equipment.css" crc="38456169" ref="equipment"/>
-    <file name="about.css" crc="141898895" ref="about"/>
+    <file name="site_global.css" crc="390033707"/>
+    <file name="index.css" crc="103538507" ref="index"/>
+    <file name="equipment.css" crc="3845129092" ref="equipment"/>
+    <file name="about.css" crc="520550985" ref="about"/>
+    <file name="music.css" crc="413740439" ref="music"/>
+    <file name="iefonts_index.css" crc="206056747" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:gallery:prints:equipment:about"/>
-    <file name="museutils.js" crc="17924269" ref="index:photography:gallery:prints:equipment:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:photography:gallery:prints:equipment:about"/>
-    <file name="museconfig.js" crc="144853533" ref="index:photography:gallery:prints:equipment:about"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:photography:gallery:prints:equipment:about"/>
-    <file name="require.js" crc="3861931657" ref="index:photography:gallery:prints:equipment:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:equipment:about:music"/>
+    <file name="museutils.js" crc="17924269" ref="index:equipment:about:music"/>
+    <file name="whatinput.js" crc="86476730" ref="index:equipment:about:music"/>
+    <file name="museconfig.js" crc="144853533" ref="index:equipment:about:music"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:equipment:about:music"/>
+    <file name="require.js" crc="3861931657" ref="index:equipment:about:music"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:equipment:about"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:gallery:prints:about"/>
-    <file name="rocks new new.jpg" crc="4073001285" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
-      <caption webpage="gallery" alt=""/>
+    <file name="keyboard.png" crc="4013907600" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
     </file>
-    <file name="rocks new new_2x.jpg" crc="26144401" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
-      <caption webpage="gallery" alt=""/>
+    <file name="keyboard_2x.png" crc="10711305" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
     </file>
-    <file name="rocks new.jpg" crc="4006370419" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
-      <caption webpage="gallery" alt=""/>
+    <file name="mouse.png" crc="498590604" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
     </file>
-    <file name="rocks new_2x.jpg" crc="267300556" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
-      <caption webpage="gallery" alt=""/>
+    <file name="mouse_2x.png" crc="204044496" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
     </file>
-    <file name="rocks.jpg" crc="197392066" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
-      <caption webpage="gallery" alt=""/>
+    <file name="nac.png" crc="3963811279" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
     </file>
-    <file name="rocks_2x.jpg" crc="3765104334" seo="true" ref="gallery">
-      <caption webpage="visual-art" alt=""/>
-      <caption webpage="gallery" alt=""/>
+    <file name="nac_2x.png" crc="4042956479" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
     </file>
-    <file name="pasted image 232x299.png" crc="262687299" seo="true" ref="index:gallery:prints:equipment:photography:about">
+    <file name="bamboo.png" crc="107449766" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="photoshop.png" crc="4178047944" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="photoshop_2x.png" crc="438576777" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="muse.jpg" crc="422782540" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="muse_2x.jpg" crc="101154069" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="illustrator.png" crc="4153229494" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="illustrator_2x.png" crc="3849232070" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="lightroom.png" crc="3849051956" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="lightroom_2x.png" crc="528743107" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="77d.png" crc="3759495741" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="77d_2x.png" crc="89385395" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="k1000.png" crc="443872936" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="k1000_2x.png" crc="302319225" seo="true" ref="equipment">
+      <caption webpage="equipment" alt=""/>
+    </file>
+    <file name="king cač-23.jpg" crc="3869725391" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="equipment" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="pasted image 232x299_2x.png" crc="3953739151" seo="true" ref="index:gallery:prints:equipment:photography:about">
+    <file name="king cač-23_2x.jpg" crc="534023436" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="prints" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="equipment" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="prints.png" crc="340562911" seo="true" ref="index">
+    <file name="king cač-24.jpg" crc="294675794" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="prints_2x.png" crc="398951310" seo="true" ref="index">
+    <file name="king cač-24_2x.jpg" crc="4193068514" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="gallery.png" crc="422509645" seo="true" ref="index">
+    <file name="r001-002.jpg" crc="138386005" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="gallery_2x.png" crc="364893114" seo="true" ref="index">
+    <file name="r001-002_2x.jpg" crc="243285768" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="equipment.png" crc="403643591" seo="true" ref="index">
+    <file name="r001-006.jpg" crc="3959140156" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="equipment_2x.png" crc="3843742351" seo="true" ref="index">
+    <file name="r001-006_2x.jpg" crc="4228169104" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="photography.png" crc="333994791" seo="true" ref="index">
+    <file name="king cač-25.jpg" crc="4114506997" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="photography_2x.png" crc="3759748324" seo="true" ref="index">
+    <file name="king cač-25_2x.jpg" crc="365571249" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="u525-4.png" crc="337811789" ref="gallery"/>
-    <file name="u525-4_2x.png" crc="3898947442" ref="gallery"/>
-    <file name="u529_states.png" crc="68051099" ref="gallery"/>
-    <file name="u529_states_2x.png" crc="297810707" ref="gallery"/>
-    <file name="u529_states-r.png" crc="164221658" ref="gallery"/>
-    <file name="u529_states-r_2x.png" crc="102155150" ref="gallery"/>
-    <file name="u1243-4.png" crc="4099482375" ref="prints"/>
-    <file name="u1243-4_2x.png" crc="4031915879" ref="prints"/>
-    <file name="1_a57fa9d1_large.png" crc="4225710641" seo="true" ref="prints">
-      <caption webpage="prints" alt=""/>
-    </file>
-    <file name="u923-4.png" crc="95124973" ref="prints"/>
-    <file name="u923-4_2x.png" crc="150081444" ref="prints"/>
-    <file name="1_7f54f43a_large.png" crc="4252615589" seo="true" ref="prints">
-      <caption webpage="prints" alt=""/>
-    </file>
-    <file name="u920-4.png" crc="244337609" ref="prints"/>
-    <file name="u920-4_2x.png" crc="125312729" ref="prints"/>
-    <file name="u1249-4.png" crc="380343792" ref="prints"/>
-    <file name="u1249-4_2x.png" crc="3858370985" ref="prints"/>
-    <file name="1_d94588f7_large.png" crc="4088408625" seo="true" ref="prints">
-      <caption webpage="prints" alt=""/>
-    </file>
-    <file name="u926-4.png" crc="262417143" ref="prints"/>
-    <file name="u926-4_2x.png" crc="4024691362" ref="prints"/>
-    <file name="u746-4.png" crc="273363159" ref="equipment"/>
-    <file name="u746-4_2x.png" crc="4286733682" ref="equipment"/>
-    <file name="keyboard.png" crc="118929722" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="keyboard_2x.png" crc="165198351" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="mouse.png" crc="169035692" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="mouse_2x.png" crc="4070871480" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="u743-4.png" crc="4129358237" ref="equipment"/>
-    <file name="u743-4_2x.png" crc="418275459" ref="equipment"/>
-    <file name="nac.png" crc="95470278" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="nac_2x.png" crc="4276575701" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="u708-4.png" crc="3957629373" ref="equipment"/>
-    <file name="u708-4_2x.png" crc="79203978" ref="equipment"/>
-    <file name="printer.png" crc="26291564" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="bamboo.png" crc="386690559" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="u731-4.png" crc="4000097380" ref="equipment"/>
-    <file name="u731-4_2x.png" crc="351500865" ref="equipment"/>
-    <file name="u737-4.png" crc="3901778082" ref="equipment"/>
-    <file name="u737-4_2x.png" crc="428490946" ref="equipment"/>
-    <file name="u752-4.png" crc="327944357" ref="equipment"/>
-    <file name="u752-4_2x.png" crc="103174924" ref="equipment"/>
-    <file name="photoshop.png" crc="4032178801" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="photoshop_2x.png" crc="405413692" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="muse.jpg" crc="165975841" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="muse_2x.jpg" crc="3838502473" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="illustrator.png" crc="254657657" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="illustrator_2x.png" crc="4291977682" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="lightroom.png" crc="4250758896" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="lightroom_2x.png" crc="349254674" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="u755-4.png" crc="142987570" ref="equipment"/>
-    <file name="u755-4_2x.png" crc="387302098" ref="equipment"/>
-    <file name="u758-5.png" crc="3890846100" ref="equipment"/>
-    <file name="u758-5_2x.png" crc="283281424" ref="equipment"/>
-    <file name="77d.png" crc="55543475" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="77d_2x.png" crc="415068145" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="k1000.png" crc="523160768" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="k1000_2x.png" crc="4270338357" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="u770-4.png" crc="4254844717" ref="equipment"/>
-    <file name="u770-4_2x.png" crc="4249933797" ref="equipment"/>
-    <file name="u776-4.png" crc="479824424" ref="equipment"/>
-    <file name="u776-4_2x.png" crc="3780920750" ref="equipment"/>
-    <file name="mic.png" crc="401727543" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="mic_2x.png" crc="4043177019" seo="true" ref="equipment">
-      <caption webpage="equipment" alt=""/>
-    </file>
-    <file name="u779-4.png" crc="163815273" ref="equipment"/>
-    <file name="u779-4_2x.png" crc="7924874" ref="equipment"/>
-    <file name="king cač-23.jpg" crc="3869725391" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="king cač-23_2x.jpg" crc="534023436" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="king cač-24.jpg" crc="294675794" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="king cač-24_2x.jpg" crc="4193068514" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="7thjuly-5.jpg" crc="4185984088" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="7thjuly-5_2x.jpg" crc="85942568" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="7thjuly-44.jpg" crc="391553900" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="7thjuly-44_2x.jpg" crc="121212473" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-21-crop-u1128.jpg" crc="443078652" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-21-crop-u1128_2x.jpg" crc="187158357" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-24.jpg" crc="4244265313" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-24_2x.jpg" crc="136345310" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="r001-002.jpg" crc="138386005" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="r001-002_2x.jpg" crc="243285768" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="r001-006.jpg" crc="3959140156" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="r001-006_2x.jpg" crc="4228169104" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="u1200-4.png" crc="3890641573" ref="photography"/>
-    <file name="u1200-4_2x.png" crc="3963752615" ref="photography"/>
-    <file name="king cač-25.jpg" crc="4114506997" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="king cač-25_2x.jpg" crc="365571249" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="7thjuly-43.jpg" crc="494806171" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="7thjuly-43_2x.jpg" crc="434775947" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-25.jpg" crc="4073352152" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="wisley-25_2x.jpg" crc="3990913832" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="r001-010.jpg" crc="35361379" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="r001-010_2x.jpg" crc="511420526" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="u898_states-r.png" crc="3967030309" ref="prints"/>
-    <file name="u898_states-r_2x.png" crc="3855984375" ref="prints"/>
-    <file name="u895_states-r.png" crc="3967030309" ref="prints"/>
-    <file name="u895_states-r_2x.png" crc="3855984375" ref="prints"/>
-    <file name="u903_states-r.png" crc="3967030309" ref="prints"/>
-    <file name="u903_states-r_2x.png" crc="3855984375" ref="prints"/>
-    <file name="contact-crop-u1306.png" crc="55807330" seo="true" ref="index">
+    <file name="r001-010.jpg" crc="35361379" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
-    <file name="contact-crop-u1306_2x.png" crc="3818184928" seo="true" ref="index">
+    <file name="r001-010_2x.jpg" crc="511420526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="u1344-4.png" crc="3918194951" ref="about"/>
-    <file name="u1344-4_2x.png" crc="4226103782" ref="about"/>
-    <file name="img_1547-crop-u1371.jpg" crc="535486225" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_1547-crop-u1371_2x.jpg" crc="3816701410" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="u1387-13.png" crc="45275998" ref="about"/>
-    <file name="u1387-13_2x.png" crc="283801289" ref="about"/>
-    <file name="u1414_states.png" crc="494711088" ref="about"/>
-    <file name="u1414_states_2x.png" crc="221147644" ref="about"/>
-    <file name="u1414_states-r.png" crc="181944500" ref="about"/>
-    <file name="u1414_states-r_2x.png" crc="3903472052" ref="about"/>
-    <file name="insta-crop-u1417.png" crc="4037842609" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="insta-crop-u1417_2x.png" crc="4063321128" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="twitter-crop-u1425.png" crc="4122500347" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="twitter-crop-u1425_2x.png" crc="4115943822" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="about-crop-u1515.png" crc="4060181450" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="about-crop-u1515_2x.png" crc="4002157582" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sphere1.jpg" crc="209424346" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="sphere1_2x.jpg" crc="3827228122" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="sphere2.jpg" crc="3842270459" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="sphere2_2x.jpg" crc="334256204" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="sphere3.jpg" crc="3996039402" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="sphere3_2x.jpg" crc="385718801" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="fluid.jpg" crc="4082926219" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="fluid_2x.jpg" crc="151560399" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="super rich kids.jpg" crc="3870206209" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="super rich kids_2x.jpg" crc="3958404032" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="loyalty.jpg" crc="3793488058" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="loyalty_2x.jpg" crc="4028167088" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="breaking.jpg" crc="348633995" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="breaking_2x.jpg" crc="4178374364" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="attention.jpg" crc="396654889" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="attention_2x.jpg" crc="4048548435" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="layering.jpg" crc="3810090506" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-    </file>
-    <file name="layering_2x.jpg" crc="104644703" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="3763007729" ref="index"/>
+    <file name="u2753-4.png" crc="241230202" ref="index"/>
+    <file name="u2753-4_2x.png" crc="105330890" ref="index"/>
+    <file name="u2750-4.png" crc="3907034367" ref="index"/>
+    <file name="u2750-4_2x.png" crc="187287689" ref="index"/>
+    <file name="u2747-4.png" crc="356559040" ref="index"/>
+    <file name="u2747-4_2x.png" crc="186587519" ref="index"/>
+    <file name="u2744-4.png" crc="417929483" ref="index"/>
+    <file name="u2744-4_2x.png" crc="215496610" ref="index"/>
+    <file name="after compressed.jpg" crc="4231026426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="after compressed_2x.jpg" crc="3888677577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2012-5.png" crc="4264805525" ref="index"/>
+    <file name="u2012-5_2x.png" crc="200228026" ref="index"/>
+    <file name="u2016-8.png" crc="4111448112" ref="index"/>
+    <file name="u2016-8_2x.png" crc="317578307" ref="index"/>
+    <file name="u2019-5.png" crc="373187851" ref="index"/>
+    <file name="u2019-5_2x.png" crc="3866209408" ref="index"/>
+    <file name="u2022-5.png" crc="457752988" ref="index"/>
+    <file name="u2022-5_2x.png" crc="4007140378" ref="index"/>
+    <file name="u2327-4.png" crc="4287435941" ref="index"/>
+    <file name="u2327-4_2x.png" crc="416533447" ref="index"/>
+    <file name="pasted-svg-774x774.svg" crc="317973002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 774x774_poster_.png" crc="4008299224" ref="index"/>
+    <file name="ttp-9.jpg" crc="4209367692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ttp-9_2x.jpg" crc="6714055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2085-8.png" crc="441050634" ref="index"/>
+    <file name="u2085-8_2x.png" crc="4057695173" ref="index"/>
+    <file name="u2324-5.png" crc="457752988" ref="index"/>
+    <file name="u2324-5_2x.png" crc="4007140378" ref="index"/>
+    <file name="ttp-7.jpg" crc="332602602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ttp-7_2x.jpg" crc="4018043769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ttp-5.jpg" crc="289893961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ttp-5_2x.jpg" crc="3801413033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2340-5.png" crc="526293596" ref="index"/>
+    <file name="u2340-5_2x.png" crc="4161789438" ref="index"/>
+    <file name="u2374-4.png" crc="4293775073" ref="index"/>
+    <file name="u2374-4_2x.png" crc="264462420" ref="index"/>
+    <file name="u2380-4.png" crc="4051413353" ref="index"/>
+    <file name="u2380-4_2x.png" crc="3876678699" ref="index"/>
+    <file name="u2450-4.png" crc="241230202" ref="music"/>
+    <file name="u2450-4_2x.png" crc="105330890" ref="music"/>
+    <file name="u2451-4.png" crc="3907034367" ref="music"/>
+    <file name="u2451-4_2x.png" crc="187287689" ref="music"/>
+    <file name="u2452-4.png" crc="356559040" ref="music"/>
+    <file name="u2452-4_2x.png" crc="186587519" ref="music"/>
+    <file name="u2453-4-a.png" crc="417929483" ref="music"/>
+    <file name="u2453-4-a_2x.png" crc="215496610" ref="music"/>
+    <file name="u2511-4.png" crc="241230202" ref="equipment"/>
+    <file name="u2511-4_2x.png" crc="105330890" ref="equipment"/>
+    <file name="u2512-4.png" crc="3907034367" ref="equipment"/>
+    <file name="u2512-4_2x.png" crc="187287689" ref="equipment"/>
+    <file name="u2513-4.png" crc="356559040" ref="equipment"/>
+    <file name="u2513-4_2x.png" crc="186587519" ref="equipment"/>
+    <file name="u2514-4.png" crc="417929483" ref="equipment"/>
+    <file name="u2514-4_2x.png" crc="215496610" ref="equipment"/>
+    <file name="u2527-22.png" crc="258483523" ref="equipment"/>
+    <file name="u2527-22_2x.png" crc="220026122" ref="equipment"/>
+    <file name="u2530-10.png" crc="3978519717" ref="equipment"/>
+    <file name="u2530-10_2x.png" crc="149849664" ref="equipment"/>
+    <file name="u2538-12.png" crc="268263230" ref="equipment"/>
+    <file name="u2538-12_2x.png" crc="412165148" ref="equipment"/>
+    <file name="u2535-8.png" crc="3895108093" ref="equipment"/>
+    <file name="u2535-8_2x.png" crc="64844305" ref="equipment"/>
+    <file name="u2541-6.png" crc="4008709453" ref="equipment"/>
+    <file name="u2541-6_2x.png" crc="214550079" ref="equipment"/>
+    <file name="u2544-6.png" crc="4245889607" ref="equipment"/>
+    <file name="u2544-6_2x.png" crc="4083396894" ref="equipment"/>
+    <file name="u2616-4.png" crc="241230202" ref="about"/>
+    <file name="u2616-4_2x.png" crc="105330890" ref="about"/>
+    <file name="u2622-4.png" crc="3907034367" ref="about"/>
+    <file name="u2622-4_2x.png" crc="187287689" ref="about"/>
+    <file name="u2617-4.png" crc="356559040" ref="about"/>
+    <file name="u2617-4_2x.png" crc="186587519" ref="about"/>
+    <file name="u2605-4.png" crc="417929483" ref="about"/>
+    <file name="u2605-4_2x.png" crc="215496610" ref="about"/>
+    <file name="u2632-16.png" crc="174315800" ref="about"/>
+    <file name="u2632-16_2x.png" crc="508251956" ref="about"/>
+    <file name="pasted-svg-1181x1181.svg" crc="64687363" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 1181x1181_poster_.png" crc="4009064755" ref="about"/>
+    <file name="pasted-svg-1359297x1120.svg" crc="4270738674" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 1359297x1120_poster_.png" crc="4092915894" ref="about"/>
   </folder>
-  <file name="index.html" crc="4024161594" seo="true" mt="1515257254846" redirect="true"/>
-  <file name="photography.html" crc="3936450705" seo="true" mt="1515257254846" redirect="true"/>
-  <file name="gallery.html" crc="257870432" seo="true" mt="1515257254846" redirect="true"/>
-  <file name="prints.html" crc="3763862394" seo="true" mt="1515257254846" redirect="true"/>
-  <file name="equipment.html" crc="4212887429" seo="true" mt="1515257254846" redirect="true"/>
-  <file name="about.html" crc="219214803" seo="true" mt="1515257254846" redirect="true"/>
+  <file name="index.html" crc="377524200" seo="true" mt="1520642491347" redirect="true"/>
+  <file name="equipment.html" crc="4214500118" seo="true" mt="1520641966711" redirect="true"/>
+  <file name="about.html" crc="244530217" seo="true" mt="1520642384339" redirect="true"/>
+  <file name="music.html" crc="3889264428" seo="true" mt="1520641978578" redirect="true"/>
 </manifest>

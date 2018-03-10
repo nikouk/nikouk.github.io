@@ -2,63 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nikouk.github.io/index.html</loc>
-    <lastmod>2018-01-06</lastmod>
+    <lastmod>2018-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/prints.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/prints_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/gallery_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/equipment.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/equipment_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/photography.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/photography_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/contact-crop-u1306.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/contact-crop-u1306_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/about-crop-u1515.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/about-crop-u1515_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://nikouk.github.io/photography.html</loc>
-    <lastmod>2018-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299_2x.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-23.jpg</image:loc>
     </image:image>
@@ -70,30 +16,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-24_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/7thjuly-5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/7thjuly-5_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/7thjuly-44.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/7thjuly-44_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-21-crop-u1128.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-21-crop-u1128_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-24.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-24_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/r001-002.jpg</image:loc>
@@ -114,140 +36,44 @@
       <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-25_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/7thjuly-43.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/7thjuly-43_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-25.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/wisley-25_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nikouk.github.io/images/r001-010.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/r001-010_2x.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://nikouk.github.io/gallery.html</loc>
-    <lastmod>2018-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/rocks%20new%20new.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/after%20compressed.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/rocks%20new%20new_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/after%20compressed_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/rocks%20new.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/pasted-svg-774x774.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/rocks%20new_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/ttp-9.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/rocks.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/ttp-9_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/rocks_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/ttp-7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299.png</image:loc>
+      <image:loc>http://nikouk.github.io/images/ttp-7_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299_2x.png</image:loc>
+      <image:loc>http://nikouk.github.io/images/ttp-5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/sphere1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/sphere1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/sphere2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/sphere2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/sphere3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/sphere3_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/fluid.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/fluid_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/super%20rich%20kids.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/super%20rich%20kids_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/loyalty.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/loyalty_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/breaking.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/breaking_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/attention.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/attention_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/layering.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/layering_2x.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://nikouk.github.io/prints.html</loc>
-    <lastmod>2018-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/1_a57fa9d1_large.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/1_7f54f43a_large.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/1_d94588f7_large.png</image:loc>
+      <image:loc>http://nikouk.github.io/images/ttp-5_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nikouk.github.io/equipment.html</loc>
-    <lastmod>2018-01-06</lastmod>
+    <lastmod>2018-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299_2x.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/keyboard.png</image:loc>
     </image:image>
@@ -265,9 +91,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/nac_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/printer.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nikouk.github.io/images/bamboo.png</image:loc>
@@ -308,41 +131,23 @@
     <image:image>
       <image:loc>http://nikouk.github.io/images/k1000_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/mic.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/mic_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://nikouk.github.io/about.html</loc>
-    <lastmod>2018-01-06</lastmod>
+    <lastmod>2018-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299.png</image:loc>
+      <image:loc>http://nikouk.github.io/images/pasted-svg-1181x1181.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted%20image%20232x299_2x.png</image:loc>
+      <image:loc>http://nikouk.github.io/images/pasted-svg-1359297x1120.svg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/img_1547-crop-u1371.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/img_1547-crop-u1371_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/insta-crop-u1417.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/insta-crop-u1417_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/twitter-crop-u1425.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/twitter-crop-u1425_2x.png</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/music.html</loc>
+    <lastmod>2018-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
