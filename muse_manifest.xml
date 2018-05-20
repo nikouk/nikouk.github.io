@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1526832392533">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1526834613222">
   <folder name="css">
     <file name="site_global.css" crc="390033707"/>
-    <file name="index.css" crc="505947316" ref="index"/>
+    <file name="index.css" crc="430954002" ref="index"/>
     <file name="equipment.css" crc="4146748530" ref="equipment"/>
-    <file name="about.css" crc="503810939" ref="about"/>
+    <file name="about.css" crc="3870724387" ref="about"/>
     <file name="music.css" crc="4254588539" ref="music"/>
     <file name="the-fur.css" crc="308854322" ref="the-fur"/>
     <file name="hazy-falls.css" crc="3995575154" ref="hazy-falls"/>
@@ -164,31 +164,29 @@
     <file name="u3895-a.png" crc="4263225876" ref="index"/>
     <file name="u3895-a_2x.png" crc="316500939" ref="index"/>
     <file name="n logo.png" crc="4138555310" seo="true" ref="index:music:equipment:about:overcast:the-fur:analogue:hazy-falls">
-      <caption webpage="about" alt=""/>
-      <caption webpage="the-fur" alt=""/>
-      <caption webpage="analogue" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="overcast" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="the-fur" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="analogue" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
       <caption webpage="equipment" alt=""/>
     </file>
     <file name="n logo_2x.png" crc="3978063342" seo="true" ref="index:music:equipment:about:overcast:the-fur:analogue:hazy-falls">
-      <caption webpage="about" alt=""/>
-      <caption webpage="the-fur" alt=""/>
-      <caption webpage="analogue" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="overcast" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="the-fur" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="analogue" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
       <caption webpage="equipment" alt=""/>
     </file>
-    <file name="u2999-6.png" crc="141476823" ref="index"/>
-    <file name="u2999-6_2x.png" crc="4144014313" ref="index"/>
-    <file name="img_3360.jpg" crc="502143419" seo="true" ref="index">
+    <file name="img_3360.jpg" crc="320366815" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_3360_2x.jpg" crc="125246600" seo="true" ref="index">
+    <file name="img_3360_2x.jpg" crc="83401771" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2872-6.png" crc="501387644" ref="index"/>
@@ -281,8 +279,6 @@
     <file name="u4543-4-a_2x.png" crc="197342092" ref="about"/>
     <file name="u4727-6.png" crc="3782709136" ref="about"/>
     <file name="u4727-6_2x.png" crc="442296519" ref="about"/>
-    <file name="u2632-10.png" crc="4002369884" ref="about"/>
-    <file name="u2632-10_2x.png" crc="475850439" ref="about"/>
     <file name="u4064.png" crc="268625279" ref="overcast"/>
     <file name="u4064_2x.png" crc="3873849714" ref="overcast"/>
     <file name="u4064-a.png" crc="268625279" ref="overcast"/>
@@ -367,10 +363,14 @@
     </file>
     <file name="u3511-9.png" crc="55215637" ref="hazy-falls"/>
     <file name="u3511-9_2x.png" crc="277833258" ref="hazy-falls"/>
+    <file name="u2999-7.png" crc="3969755702" ref="index"/>
+    <file name="u2999-7_2x.png" crc="4283841659" ref="index"/>
+    <file name="u2632-14.png" crc="3972750408" ref="about"/>
+    <file name="u2632-14_2x.png" crc="421398831" ref="about"/>
   </folder>
-  <file name="index.html" crc="395942280" seo="true" mt="1526832200479" redirect="true"/>
+  <file name="index.html" crc="41939180" seo="true" mt="1526834529955" redirect="true"/>
   <file name="equipment.html" crc="4069075781" seo="true" mt="1526832358672" redirect="true"/>
-  <file name="about.html" crc="477479065" seo="true" mt="1526832362262" redirect="true"/>
+  <file name="about.html" crc="3935049671" seo="true" mt="1526834581259" redirect="true"/>
   <file name="music.html" crc="3796508635" seo="true" mt="1526832035378" redirect="true"/>
   <file name="overcast.html" crc="55409488" seo="true" mt="1526832381668" redirect="true"/>
   <file name="the-fur.html" crc="117204824" seo="true" mt="1526832371846" redirect="true"/>
