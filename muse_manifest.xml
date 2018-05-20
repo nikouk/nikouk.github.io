@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1526832216152">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1526832392533">
   <folder name="css">
     <file name="site_global.css" crc="390033707"/>
     <file name="index.css" crc="505947316" ref="index"/>
     <file name="equipment.css" crc="4146748530" ref="equipment"/>
     <file name="about.css" crc="503810939" ref="about"/>
     <file name="music.css" crc="4254588539" ref="music"/>
-    <file name="the-fur.css" crc="477895705" ref="the-fur"/>
-    <file name="hazy-falls.css" crc="3890426038" ref="hazy-falls"/>
-    <file name="analogue.css" crc="276816062" ref="analogue"/>
-    <file name="overcast.css" crc="4255952059" ref="overcast"/>
+    <file name="the-fur.css" crc="308854322" ref="the-fur"/>
+    <file name="hazy-falls.css" crc="3995575154" ref="hazy-falls"/>
+    <file name="analogue.css" crc="16577624" ref="analogue"/>
+    <file name="overcast.css" crc="4130587317" ref="overcast"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:equipment:about:music:overcast:the-fur:analogue:hazy-falls"/>
@@ -139,7 +139,7 @@
       <caption webpage="photography" alt=""/>
       <caption webpage="analogue" alt=""/>
     </file>
-    <file name="a-master-favicon.ico" crc="3763007729" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3763007729" ref="index:equipment"/>
     <file name="pasted-svg-1181x1181.svg" crc="201052504" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -369,11 +369,11 @@
     <file name="u3511-9_2x.png" crc="277833258" ref="hazy-falls"/>
   </folder>
   <file name="index.html" crc="395942280" seo="true" mt="1526832200479" redirect="true"/>
-  <file name="equipment.html" crc="4236926664" seo="true" mt="1526832021790" redirect="true"/>
-  <file name="about.html" crc="4002377328" seo="true" mt="1526832153560" redirect="true"/>
+  <file name="equipment.html" crc="4069075781" seo="true" mt="1526832358672" redirect="true"/>
+  <file name="about.html" crc="477479065" seo="true" mt="1526832362262" redirect="true"/>
   <file name="music.html" crc="3796508635" seo="true" mt="1526832035378" redirect="true"/>
-  <file name="overcast.html" crc="4258873726" seo="true" mt="1526831996655" redirect="true"/>
-  <file name="the-fur.html" crc="347932111" seo="true" mt="1526832009257" redirect="true"/>
-  <file name="analogue.html" crc="7715805" seo="true" mt="1526832015465" redirect="true"/>
-  <file name="hazy-falls.html" crc="301893991" seo="true" mt="1526832002744" redirect="true"/>
+  <file name="overcast.html" crc="55409488" seo="true" mt="1526832381668" redirect="true"/>
+  <file name="the-fur.html" crc="117204824" seo="true" mt="1526832371846" redirect="true"/>
+  <file name="analogue.html" crc="4054091509" seo="true" mt="1526832354037" redirect="true"/>
+  <file name="hazy-falls.html" crc="247303967" seo="true" mt="1526832377978" redirect="true"/>
 </manifest>
