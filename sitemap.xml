@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nikouk.github.io/index.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -42,36 +42,27 @@
       <image:loc>http://nikouk.github.io/images/r001-010_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/after%20compressed.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/n%20logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/after%20compressed_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/n%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/pasted-svg-774x774.svg</image:loc>
+      <image:loc>http://nikouk.github.io/images/img_3360.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/ttp-9.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/img_3360_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/ttp-9_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/img_3278.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nikouk.github.io/images/ttp-7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/ttp-7_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/ttp-5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nikouk.github.io/images/ttp-5_2x.jpg</image:loc>
+      <image:loc>http://nikouk.github.io/images/img_3278_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nikouk.github.io/equipment.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -131,10 +122,16 @@
     <image:image>
       <image:loc>http://nikouk.github.io/images/k1000_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nikouk.github.io/about.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -143,11 +140,119 @@
     <image:image>
       <image:loc>http://nikouk.github.io/images/pasted-svg-1359297x1120.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nikouk.github.io/music.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/overcast.html</loc>
+    <lastmod>2018-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/img_3360379x253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/img_3360379x253_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/the-fur.html</loc>
+    <lastmod>2018-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-23.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-23_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-24_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/king%20ca%C4%8D-25_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/analogue.html</loc>
+    <lastmod>2018-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/r001-002.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/r001-002_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/r001-006.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/r001-006_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/r001-010.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/r001-010_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.github.io/hazy-falls.html</loc>
+    <lastmod>2018-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/n%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/img_3278379x253.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.github.io/images/img_3278379x253_2x.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
