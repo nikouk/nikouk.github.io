@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1526834810852">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1526835994410">
   <folder name="css">
     <file name="site_global.css" crc="390033707"/>
     <file name="index.css" crc="45127595" ref="index"/>
-    <file name="equipment.css" crc="4146748530" ref="equipment"/>
-    <file name="about.css" crc="3870724387" ref="about"/>
-    <file name="music.css" crc="4254588539" ref="music"/>
+    <file name="equipment.css" crc="466541860" ref="equipment"/>
+    <file name="about.css" crc="4157448658" ref="about"/>
+    <file name="music.css" crc="4254478079" ref="music"/>
     <file name="the-fur.css" crc="308854322" ref="the-fur"/>
     <file name="hazy-falls.css" crc="3995575154" ref="hazy-falls"/>
     <file name="analogue.css" crc="16577624" ref="analogue"/>
@@ -139,7 +139,7 @@
       <caption webpage="photography" alt=""/>
       <caption webpage="analogue" alt=""/>
     </file>
-    <file name="a-master-favicon.ico" crc="3763007729" ref="index:equipment"/>
+    <file name="a-master-favicon.ico" crc="3763007729" ref="index:music"/>
     <file name="pasted-svg-1181x1181.svg" crc="201052504" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -164,24 +164,24 @@
     <file name="u3895-a.png" crc="4263225876" ref="index"/>
     <file name="u3895-a_2x.png" crc="316500939" ref="index"/>
     <file name="n logo.png" crc="4138555310" seo="true" ref="index:music:equipment:about:overcast:the-fur:analogue:hazy-falls">
+      <caption webpage="equipment" alt=""/>
       <caption webpage="overcast" alt=""/>
       <caption webpage="the-fur" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="analogue" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="music" alt=""/>
       <caption webpage="hazy-falls" alt=""/>
-      <caption webpage="equipment" alt=""/>
     </file>
     <file name="n logo_2x.png" crc="3978063342" seo="true" ref="index:music:equipment:about:overcast:the-fur:analogue:hazy-falls">
+      <caption webpage="equipment" alt=""/>
       <caption webpage="overcast" alt=""/>
       <caption webpage="the-fur" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="analogue" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="music" alt=""/>
       <caption webpage="hazy-falls" alt=""/>
-      <caption webpage="equipment" alt=""/>
     </file>
     <file name="img_3360.jpg" crc="320366815" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -209,18 +209,18 @@
     <file name="u3753-4-a_2x.png" crc="414056943" ref="music"/>
     <file name="u4646.png" crc="268625279" ref="music"/>
     <file name="u4646_2x.png" crc="3873849714" ref="music"/>
-    <file name="u4646-a.png" crc="268625279" ref="music"/>
-    <file name="u4646-a_2x.png" crc="3873849714" ref="music"/>
-    <file name="u4656-4-a.png" crc="11933990" ref="music"/>
-    <file name="u4656-4-a_2x.png" crc="207826586" ref="music"/>
+    <file name="u4646-a.png" crc="4228397268" ref="music"/>
+    <file name="u4646-a_2x.png" crc="30255205" ref="music"/>
+    <file name="u4656-4-a.png" crc="4211222690" ref="music"/>
+    <file name="u4656-4-a_2x.png" crc="4063902703" ref="music"/>
     <file name="u4635.png" crc="313438367" ref="music"/>
     <file name="u4635_2x.png" crc="466326802" ref="music"/>
-    <file name="u4635-a.png" crc="3902827210" ref="music"/>
-    <file name="u4635-a_2x.png" crc="75641466" ref="music"/>
+    <file name="u4635-a.png" crc="3795250294" ref="music"/>
+    <file name="u4635-a_2x.png" crc="525292744" ref="music"/>
     <file name="u4640.png" crc="52107680" ref="music"/>
     <file name="u4640_2x.png" crc="3763377186" ref="music"/>
-    <file name="u4640-a.png" crc="358384853" ref="music"/>
-    <file name="u4640-a_2x.png" crc="197342092" ref="music"/>
+    <file name="u4640-a.png" crc="520356153" ref="music"/>
+    <file name="u4640-a_2x.png" crc="240047668" ref="music"/>
     <file name="u3750_states.png" crc="3817440086" ref="music"/>
     <file name="u3750_states_2x.png" crc="418564256" ref="music"/>
     <file name="u3750_states-r.png" crc="246397086" ref="music"/>
@@ -237,18 +237,18 @@
     <file name="u2425-4_2x.png" crc="47247595" ref="music"/>
     <file name="u4452.png" crc="268625279" ref="equipment"/>
     <file name="u4452_2x.png" crc="3873849714" ref="equipment"/>
-    <file name="u4452-a.png" crc="268625279" ref="equipment"/>
-    <file name="u4452-a_2x.png" crc="3873849714" ref="equipment"/>
+    <file name="u4452-a.png" crc="4228397268" ref="equipment"/>
+    <file name="u4452-a_2x.png" crc="30255205" ref="equipment"/>
     <file name="u4462.png" crc="4149235130" ref="equipment"/>
     <file name="u4462_2x.png" crc="450650380" ref="equipment"/>
-    <file name="u4462-a.png" crc="11933990" ref="equipment"/>
-    <file name="u4462-a_2x.png" crc="207826586" ref="equipment"/>
-    <file name="u4441-4-a.png" crc="3902827210" ref="equipment"/>
-    <file name="u4441-4-a_2x.png" crc="75641466" ref="equipment"/>
+    <file name="u4462-a.png" crc="4211222690" ref="equipment"/>
+    <file name="u4462-a_2x.png" crc="4063902703" ref="equipment"/>
+    <file name="u4441-4-a.png" crc="3795250294" ref="equipment"/>
+    <file name="u4441-4-a_2x.png" crc="525292744" ref="equipment"/>
     <file name="u4446.png" crc="52107680" ref="equipment"/>
     <file name="u4446_2x.png" crc="3763377186" ref="equipment"/>
-    <file name="u4446-a.png" crc="358384853" ref="equipment"/>
-    <file name="u4446-a_2x.png" crc="197342092" ref="equipment"/>
+    <file name="u4446-a.png" crc="520356153" ref="equipment"/>
+    <file name="u4446-a_2x.png" crc="240047668" ref="equipment"/>
     <file name="u3819-6.png" crc="4021075144" ref="equipment"/>
     <file name="u3819-6_2x.png" crc="320493756" ref="equipment"/>
     <file name="u2527-10.png" crc="217489456" ref="equipment"/>
@@ -265,18 +265,18 @@
     <file name="u2544-4_2x.png" crc="3771397858" ref="equipment"/>
     <file name="u4549.png" crc="268625279" ref="about"/>
     <file name="u4549_2x.png" crc="3873849714" ref="about"/>
-    <file name="u4549-a.png" crc="268625279" ref="about"/>
-    <file name="u4549-a_2x.png" crc="3873849714" ref="about"/>
+    <file name="u4549-a.png" crc="4228397268" ref="about"/>
+    <file name="u4549-a_2x.png" crc="30255205" ref="about"/>
     <file name="u4559.png" crc="4149235130" ref="about"/>
     <file name="u4559_2x.png" crc="450650380" ref="about"/>
-    <file name="u4559-a.png" crc="11933990" ref="about"/>
-    <file name="u4559-a_2x.png" crc="207826586" ref="about"/>
+    <file name="u4559-a.png" crc="4211222690" ref="about"/>
+    <file name="u4559-a_2x.png" crc="4063902703" ref="about"/>
     <file name="u4538.png" crc="313438367" ref="about"/>
     <file name="u4538_2x.png" crc="466326802" ref="about"/>
-    <file name="u4538-a.png" crc="3902827210" ref="about"/>
-    <file name="u4538-a_2x.png" crc="75641466" ref="about"/>
-    <file name="u4543-4-a.png" crc="358384853" ref="about"/>
-    <file name="u4543-4-a_2x.png" crc="197342092" ref="about"/>
+    <file name="u4538-a.png" crc="3795250294" ref="about"/>
+    <file name="u4538-a_2x.png" crc="525292744" ref="about"/>
+    <file name="u4543-4-a.png" crc="520356153" ref="about"/>
+    <file name="u4543-4-a_2x.png" crc="240047668" ref="about"/>
     <file name="u4727-6.png" crc="3782709136" ref="about"/>
     <file name="u4727-6_2x.png" crc="442296519" ref="about"/>
     <file name="u4064.png" crc="268625279" ref="overcast"/>
@@ -371,9 +371,9 @@
     <file name="u4733-4_2x.png" crc="83815115" ref="index"/>
   </folder>
   <file name="index.html" crc="4112997320" seo="true" mt="1526834786274" redirect="true"/>
-  <file name="equipment.html" crc="4069075781" seo="true" mt="1526832358672" redirect="true"/>
-  <file name="about.html" crc="3935049671" seo="true" mt="1526834581259" redirect="true"/>
-  <file name="music.html" crc="3796508635" seo="true" mt="1526832035378" redirect="true"/>
+  <file name="equipment.html" crc="144075600" seo="true" mt="1526835969197" redirect="true"/>
+  <file name="about.html" crc="65211826" seo="true" mt="1526835975138" redirect="true"/>
+  <file name="music.html" crc="185731801" seo="true" mt="1526835961005" redirect="true"/>
   <file name="overcast.html" crc="55409488" seo="true" mt="1526832381668" redirect="true"/>
   <file name="the-fur.html" crc="117204824" seo="true" mt="1526832371846" redirect="true"/>
   <file name="analogue.html" crc="4054091509" seo="true" mt="1526832354037" redirect="true"/>
