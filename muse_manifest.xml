@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1526834613222">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1526834810852">
   <folder name="css">
     <file name="site_global.css" crc="390033707"/>
-    <file name="index.css" crc="430954002" ref="index"/>
+    <file name="index.css" crc="45127595" ref="index"/>
     <file name="equipment.css" crc="4146748530" ref="equipment"/>
     <file name="about.css" crc="3870724387" ref="about"/>
     <file name="music.css" crc="4254588539" ref="music"/>
@@ -195,10 +195,10 @@
     <file name="u2878-6_2x.png" crc="3936130163" ref="index"/>
     <file name="u2884-6.png" crc="217291951" ref="index"/>
     <file name="u2884-6_2x.png" crc="4213142635" ref="index"/>
-    <file name="img_3278.jpg" crc="181045923" seo="true" ref="index">
+    <file name="img_3278.jpg" crc="506234080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_3278_2x.jpg" crc="3956590227" seo="true" ref="index">
+    <file name="img_3278_2x.jpg" crc="4025056178" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2959-6.png" crc="459715548" ref="index"/>
@@ -367,8 +367,10 @@
     <file name="u2999-7_2x.png" crc="4283841659" ref="index"/>
     <file name="u2632-14.png" crc="3972750408" ref="about"/>
     <file name="u2632-14_2x.png" crc="421398831" ref="about"/>
+    <file name="u4733-4.png" crc="4108001918" ref="index"/>
+    <file name="u4733-4_2x.png" crc="83815115" ref="index"/>
   </folder>
-  <file name="index.html" crc="41939180" seo="true" mt="1526834529955" redirect="true"/>
+  <file name="index.html" crc="4112997320" seo="true" mt="1526834786274" redirect="true"/>
   <file name="equipment.html" crc="4069075781" seo="true" mt="1526832358672" redirect="true"/>
   <file name="about.html" crc="3935049671" seo="true" mt="1526834581259" redirect="true"/>
   <file name="music.html" crc="3796508635" seo="true" mt="1526832035378" redirect="true"/>
