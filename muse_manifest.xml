@@ -1,4 +1,28 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1530742960562">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1530804871158">
+  <folder name="phone">
+    <folder name="css">
+      <file name="the-fur.css" crc="62426684" ref="phone>the-fur"/>
+      <file name="hazy-falls.css" crc="62426684" ref="phone>hazy-falls"/>
+      <file name="graphic-design.css" crc="3833050251" ref="phone>graphic-design"/>
+      <file name="portfolio.css" crc="3833050251" ref="phone>portfolio"/>
+      <file name="analogue.css" crc="62426684" ref="phone>analogue"/>
+      <file name="index.css" crc="3833050251" ref="phone>index"/>
+      <file name="about.css" crc="3833050251" ref="phone>about"/>
+      <file name="overcast.css" crc="62426684" ref="phone>overcast"/>
+      <file name="equipment.css" crc="3833050251" ref="phone>equipment"/>
+      <file name="photography.css" crc="3833050251" ref="phone>photography"/>
+    </folder>
+    <file name="index.html" crc="4165621467" seo="true" mt="1530743356233" redirect="false"/>
+    <file name="portfolio.html" crc="198011794" seo="true" mt="1530743356467" redirect="false"/>
+    <file name="photography.html" crc="370346998" seo="true" mt="1530743356490" redirect="false"/>
+    <file name="overcast.html" crc="405268591" seo="true" mt="1530743356516" redirect="false"/>
+    <file name="hazy-falls.html" crc="198656188" seo="true" mt="1530743356539" redirect="false"/>
+    <file name="the-fur.html" crc="469700412" seo="true" mt="1530743356569" redirect="false"/>
+    <file name="analogue.html" crc="3860394633" seo="true" mt="1530743356593" redirect="false"/>
+    <file name="graphic-design.html" crc="80637135" seo="true" mt="1530743356618" redirect="false"/>
+    <file name="equipment.html" crc="194110506" seo="true" mt="1530743356641" redirect="false"/>
+    <file name="about.html" crc="22674247" seo="true" mt="1530743356664" redirect="false"/>
+  </folder>
   <folder name="assets">
     <file name="colour-people.pdf" crc="333922150" seo="true" mt="1527005371000"/>
   </folder>
@@ -16,12 +40,12 @@
     <file name="graphic-design.css" crc="4067487766" ref="graphic-design"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design"/>
-    <file name="museutils.js" crc="17924269" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design"/>
-    <file name="whatinput.js" crc="86476730" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design"/>
-    <file name="museconfig.js" crc="144853533" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design"/>
-    <file name="require.js" crc="3861931657" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about"/>
+    <file name="museutils.js" crc="17924269" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about"/>
+    <file name="museconfig.js" crc="144853533" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about"/>
+    <file name="require.js" crc="3861931657" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about"/>
     <file name="jquery.scrolleffects.js" crc="232371266" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:graphic-design"/>
     <file name="jquery.musemenu.js" crc="4286030528" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:graphic-design"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design"/>
@@ -110,23 +134,23 @@
     </file>
     <file name="r001-002.jpg" crc="138386005" seo="true" ref="analogue:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="analogue" alt=""/>
     </file>
     <file name="r001-002_2x.jpg" crc="243285768" seo="true" ref="analogue:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="analogue" alt=""/>
     </file>
     <file name="r001-006.jpg" crc="3959140156" seo="true" ref="analogue:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="analogue" alt=""/>
     </file>
     <file name="r001-006_2x.jpg" crc="4228169104" seo="true" ref="analogue:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="analogue" alt=""/>
     </file>
     <file name="king cač-25.jpg" crc="4114506997" seo="true" ref="the-fur:photography">
       <caption webpage="index" alt=""/>
@@ -140,15 +164,15 @@
     </file>
     <file name="r001-010.jpg" crc="35361379" seo="true" ref="analogue:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="analogue" alt=""/>
     </file>
     <file name="r001-010_2x.jpg" crc="511420526" seo="true" ref="analogue:photography">
       <caption webpage="index" alt=""/>
-      <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="analogue" alt=""/>
     </file>
-    <file name="a-master-favicon.ico" crc="3763007729" ref="photography"/>
+    <file name="a-master-favicon.ico" crc="3763007729" ref="phone>index"/>
     <file name="pasted-svg-1181x1181.svg" crc="201052504" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -159,28 +183,28 @@
     <file name="pasted svg 1359297x1120_poster_.png" crc="106761669" ref="about"/>
     <file name="blank.gif" crc="4208392903" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:graphic-design"/>
     <file name="n logo.png" crc="4138555310" seo="true" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:graphic-design">
-      <caption webpage="analogue" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="overcast" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="the-fur" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="music" alt=""/>
       <caption webpage="equipment" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="overcast" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="analogue" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
     </file>
     <file name="n logo_2x.png" crc="3978063342" seo="true" ref="index:equipment:about:overcast:the-fur:analogue:hazy-falls:photography:graphic-design">
-      <caption webpage="analogue" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="overcast" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="the-fur" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="music" alt=""/>
       <caption webpage="equipment" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="overcast" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="analogue" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
     </file>
     <file name="img_3360.jpg" crc="320366815" seo="true" ref="photography">
       <caption webpage="index" alt=""/>
@@ -466,14 +490,14 @@
     <file name="u8429-4.png" crc="226529989" ref="graphic-design"/>
     <file name="u8429-4_2x.png" crc="3783986856" ref="graphic-design"/>
   </folder>
-  <file name="index.html" crc="4258752300" seo="true" mt="1530742422032" redirect="true"/>
-  <file name="equipment.html" crc="4058542260" seo="true" mt="1530739911732" redirect="true"/>
-  <file name="about.html" crc="4173388543" seo="true" mt="1530742422036" redirect="true"/>
-  <file name="overcast.html" crc="3994893907" seo="true" mt="1530739911779" redirect="true"/>
-  <file name="the-fur.html" crc="4044583193" seo="true" mt="1530739911715" redirect="true"/>
-  <file name="analogue.html" crc="502620810" seo="true" mt="1530739911768" redirect="true"/>
-  <file name="hazy-falls.html" crc="3979676611" seo="true" mt="1530739911697" redirect="true"/>
-  <file name="photography.html" crc="3842921975" seo="true" mt="1530742422029" redirect="true"/>
-  <file name="portfolio.html" crc="3970138450" seo="true" mt="1530739336103" redirect="false"/>
-  <file name="graphic-design.html" crc="4150060172" seo="true" mt="1530742782014" redirect="true"/>
+  <file name="index.html" crc="3807240518" seo="true" mt="1530743356952" redirect="true"/>
+  <file name="equipment.html" crc="4074866146" seo="true" mt="1530743357619" redirect="true"/>
+  <file name="about.html" crc="3869031701" seo="true" mt="1530804849623" redirect="true"/>
+  <file name="overcast.html" crc="4001905131" seo="true" mt="1530743357204" redirect="true"/>
+  <file name="the-fur.html" crc="3992973055" seo="true" mt="1530743357366" redirect="true"/>
+  <file name="analogue.html" crc="3883706945" seo="true" mt="1530743357450" redirect="true"/>
+  <file name="hazy-falls.html" crc="521605903" seo="true" mt="1530743357286" redirect="true"/>
+  <file name="photography.html" crc="104224799" seo="true" mt="1530743357120" redirect="true"/>
+  <file name="portfolio.html" crc="3970138450" seo="true" mt="1530743357036" redirect="false"/>
+  <file name="graphic-design.html" crc="4161393380" seo="true" mt="1530743357532" redirect="true"/>
 </manifest>
