@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1538785801155">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1538786347590">
   <folder name="phone">
     <folder name="css">
       <file name="the-fur.css" crc="62426684" ref="phone>the-fur"/>
@@ -37,7 +37,7 @@
     <file name="portfolio.css" crc="394341246" ref="portfolio"/>
     <file name="photography.css" crc="4252488174" ref="photography"/>
     <file name="graphic-design.css" crc="3885742866" ref="graphic-design"/>
-    <file name="contact.css" crc="101424984" ref="contact"/>
+    <file name="contact.css" crc="3976798292" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact"/>
@@ -49,14 +49,10 @@
     <file name="jquery.scrolleffects.js" crc="232371266" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact"/>
     <file name="jquery.musemenu.js" crc="4286030528" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:contact"/>
-    <file name="webpro.js" crc="416662029" ref="index:contact"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
     <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
     <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
     <file name="touchswipe.js" crc="432264157" ref="index"/>
-    <file name="form_check.php" crc="4110044762" ref="contact"/>
-    <file name="form_throttle.php" crc="22190333" ref="contact"/>
-    <file name="form_process.php" crc="257545537" ref="contact"/>
-    <file name="form-u9504.php" crc="143868464" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="keyboard.png" crc="4013907600" seo="true" ref="equipment">
@@ -176,7 +172,7 @@
       <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="a-master-favicon.ico" crc="3763007729" ref="phone>index:phone>about"/>
+    <file name="a-master-favicon.ico" crc="3763007729" ref="phone>index:phone>about:contact"/>
     <file name="pasted-svg-1181x1181.svg" crc="201052504" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
@@ -192,29 +188,29 @@
     <file name="blank.gif" crc="4208392903" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact"/>
     <file name="n logo.png" crc="4138555310" seo="true" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact">
       <caption webpage="equipment" alt=""/>
-      <caption webpage="analogue" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="overcast" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
       <caption webpage="the-fur" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="overcast" alt=""/>
       <caption webpage="graphic-design" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="n logo_2x.png" crc="3978063342" seo="true" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact">
       <caption webpage="equipment" alt=""/>
-      <caption webpage="analogue" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="overcast" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
       <caption webpage="the-fur" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="overcast" alt=""/>
       <caption webpage="graphic-design" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img_3360.jpg" crc="96412549" seo="true" ref="overcast">
       <caption webpage="index" alt=""/>
@@ -505,8 +501,8 @@
     <file name="motive-12230x346_2x.jpg" crc="380635545" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="u7759-7.png" crc="203602719" ref="contact"/>
-    <file name="u7759-7_2x.png" crc="324832076" ref="contact"/>
+    <file name="u7759-7.png" crc="3807726756" ref="contact"/>
+    <file name="u7759-7_2x.png" crc="319511643" ref="contact"/>
     <file name="22sep-37.jpg" crc="327491249" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -553,5 +549,5 @@
   <file name="photography.html" crc="503524156" seo="true" mt="1538785310855" redirect="true"/>
   <file name="portfolio.html" crc="3970138450" seo="true" mt="1530743357036" redirect="false"/>
   <file name="graphic-design.html" crc="231326444" seo="true" mt="1538785310850" redirect="true"/>
-  <file name="contact.html" crc="154195564" seo="true" mt="1538785731589" redirect="true"/>
+  <file name="contact.html" crc="4138614219" seo="true" mt="1538786330962" redirect="true"/>
 </manifest>
