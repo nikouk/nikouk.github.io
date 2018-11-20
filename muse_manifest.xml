@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1538786347590">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1542746847346">
   <folder name="phone">
     <folder name="css">
       <file name="the-fur.css" crc="62426684" ref="phone>the-fur"/>
@@ -122,12 +122,12 @@
       <caption webpage="the-fur" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="king cač-24.jpg" crc="294675794" seo="true" ref="the-fur:photography">
+    <file name="king cač-24.jpg" crc="294675794" seo="true" ref="the-fur">
       <caption webpage="index" alt=""/>
       <caption webpage="the-fur" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="king cač-24_2x.jpg" crc="4193068514" seo="true" ref="the-fur:photography">
+    <file name="king cač-24_2x.jpg" crc="4193068514" seo="true" ref="the-fur">
       <caption webpage="index" alt=""/>
       <caption webpage="the-fur" alt=""/>
       <caption webpage="photography" alt=""/>
@@ -172,7 +172,7 @@
       <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="a-master-favicon.ico" crc="3763007729" ref="phone>index:phone>about:contact"/>
+    <file name="a-master-favicon.ico" crc="3763007729" ref="phone>index:phone>about:contact:photography"/>
     <file name="pasted-svg-1181x1181.svg" crc="201052504" seo="true" ref="contact:index">
       <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
@@ -187,30 +187,30 @@
     <file name="pasted svg 1359297x1120_poster_.png" crc="106761669" ref="contact"/>
     <file name="blank.gif" crc="4208392903" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact"/>
     <file name="n logo.png" crc="4138555310" seo="true" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact">
-      <caption webpage="equipment" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="the-fur" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="analogue" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="overcast" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="overcast" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="the-fur" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="analogue" alt=""/>
+      <caption webpage="equipment" alt=""/>
     </file>
     <file name="n logo_2x.png" crc="3978063342" seo="true" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact">
-      <caption webpage="equipment" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="the-fur" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="analogue" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="overcast" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="overcast" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="the-fur" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="analogue" alt=""/>
+      <caption webpage="equipment" alt=""/>
     </file>
     <file name="img_3360.jpg" crc="96412549" seo="true" ref="overcast">
       <caption webpage="index" alt=""/>
@@ -459,12 +459,6 @@
     </file>
     <file name="u8429-4.png" crc="335876360" ref="graphic-design"/>
     <file name="u8429-4_2x.png" crc="271157559" ref="graphic-design"/>
-    <file name="22sep-43.jpg" crc="146187672" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
-    <file name="22sep-43_2x.jpg" crc="3956861906" seo="true" ref="photography">
-      <caption webpage="photography" alt=""/>
-    </file>
     <file name="22sep-37520x347.jpg" crc="66757898" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
@@ -539,6 +533,18 @@
     <file name="1_2x.jpg" crc="438819044" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
+    <file name="motivenov-15.jpg" crc="508906730" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="motivenov-15_2x.jpg" crc="378288257" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="motivenov-26.jpg" crc="432452285" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="motivenov-26_2x.jpg" crc="3812786373" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="79923087" seo="true" mt="1538785310851" redirect="true"/>
   <file name="equipment.html" crc="4229110886" seo="true" mt="1538785310853" redirect="true"/>
@@ -546,7 +552,7 @@
   <file name="the-fur.html" crc="487289243" seo="true" mt="1538785310860" redirect="true"/>
   <file name="analogue.html" crc="480923118" seo="true" mt="1538785310859" redirect="true"/>
   <file name="hazy-falls.html" crc="202808532" seo="true" mt="1538785310852" redirect="true"/>
-  <file name="photography.html" crc="503524156" seo="true" mt="1538785310855" redirect="true"/>
+  <file name="photography.html" crc="34371235" seo="true" mt="1542746774898" redirect="true"/>
   <file name="portfolio.html" crc="3970138450" seo="true" mt="1530743357036" redirect="false"/>
   <file name="graphic-design.html" crc="231326444" seo="true" mt="1538785310850" redirect="true"/>
   <file name="contact.html" crc="4138614219" seo="true" mt="1538786330962" redirect="true"/>
