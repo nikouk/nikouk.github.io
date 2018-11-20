@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1542746847346">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.github.io" resolutions="1x,2x" timestamp="1542748576173">
   <folder name="phone">
     <folder name="css">
       <file name="the-fur.css" crc="62426684" ref="phone>the-fur"/>
@@ -38,17 +38,18 @@
     <file name="photography.css" crc="4252488174" ref="photography"/>
     <file name="graphic-design.css" crc="3885742866" ref="graphic-design"/>
     <file name="contact.css" crc="3976798292" ref="contact"/>
+    <file name="shitpost.css" crc="413400293" ref="shitpost"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact"/>
-    <file name="museutils.js" crc="17924269" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact"/>
-    <file name="museconfig.js" crc="144853533" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact"/>
-    <file name="require.js" crc="3861931657" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact:shitpost"/>
+    <file name="museutils.js" crc="17924269" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact:shitpost"/>
+    <file name="whatinput.js" crc="86476730" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact:shitpost"/>
+    <file name="museconfig.js" crc="144853533" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact:shitpost"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact:shitpost"/>
+    <file name="require.js" crc="3861931657" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:phone>index:phone>portfolio:phone>photography:phone>overcast:phone>hazy-falls:phone>the-fur:phone>analogue:phone>graphic-design:phone>equipment:phone>about:contact:shitpost"/>
     <file name="jquery.scrolleffects.js" crc="232371266" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact"/>
     <file name="jquery.musemenu.js" crc="4286030528" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:portfolio:graphic-design:contact:shitpost"/>
     <file name="webpro.js" crc="416662029" ref="index"/>
     <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
     <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
@@ -172,55 +173,55 @@
       <caption webpage="analogue" alt=""/>
       <caption webpage="photography" alt=""/>
     </file>
-    <file name="a-master-favicon.ico" crc="3763007729" ref="phone>index:phone>about:contact:photography"/>
+    <file name="a-master-favicon.ico" crc="3763007729" ref="phone>index:phone>about:photography"/>
     <file name="pasted-svg-1181x1181.svg" crc="201052504" seo="true" ref="contact:index">
-      <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 1181x1181_poster_.png" crc="446293356" ref="contact"/>
     <file name="pasted-svg-1359297x1120.svg" crc="336629690" seo="true" ref="contact:index">
-      <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="pasted svg 1359297x1120_poster_.png" crc="106761669" ref="contact"/>
     <file name="blank.gif" crc="4208392903" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact"/>
     <file name="n logo.png" crc="4138555310" seo="true" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="overcast" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
       <caption webpage="the-fur" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
       <caption webpage="music" alt=""/>
       <caption webpage="analogue" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="overcast" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="equipment" alt=""/>
     </file>
     <file name="n logo_2x.png" crc="3978063342" seo="true" ref="index:equipment:overcast:the-fur:analogue:hazy-falls:photography:graphic-design:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="graphic-design" alt=""/>
-      <caption webpage="overcast" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="hazy-falls" alt=""/>
       <caption webpage="the-fur" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
       <caption webpage="music" alt=""/>
       <caption webpage="analogue" alt=""/>
+      <caption webpage="hazy-falls" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="overcast" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="equipment" alt=""/>
     </file>
     <file name="img_3360.jpg" crc="96412549" seo="true" ref="overcast">
       <caption webpage="index" alt=""/>
-      <caption webpage="overcast" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="overcast" alt=""/>
     </file>
     <file name="img_3360_2x.jpg" crc="47742146" seo="true" ref="overcast">
       <caption webpage="index" alt=""/>
-      <caption webpage="overcast" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="overcast" alt=""/>
     </file>
     <file name="img_3278.jpg" crc="271652917" seo="true" ref="hazy-falls">
       <caption webpage="index" alt=""/>
@@ -545,15 +546,76 @@
     <file name="motivenov-26_2x.jpg" crc="3812786373" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
+    <file name="pasted image 972x960.jpg" crc="3774786260" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 972x960_2x.jpg" crc="3838910872" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 222x227-crop-u9976.jpg" crc="45181832" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 222x227-crop-u9976_2x.jpg" crc="3939682036" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 960x770.jpg" crc="92556664" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 960x770_2x.jpg" crc="4167136913" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 500x354.jpg" crc="100056344" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 500x354_2x.jpg" crc="247682260" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 720x900.jpg" crc="4247444059" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 720x900_2x.jpg" crc="338620368" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 320x240.jpg" crc="3858328262" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 320x240_2x.jpg" crc="4223082657" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 212x200.jpg" crc="4172345943" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080.jpg" crc="21941689" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080_2x.jpg" crc="469434533" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 375x360.jpg" crc="468117154" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 375x360_2x.jpg" crc="4208690617" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 375x458.jpg" crc="4217757248" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 67x148.jpg" crc="4152773289" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
+    <file name="pasted image 375x371.jpg" crc="18146175" seo="true" ref="shitpost">
+      <caption webpage="shitpost" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="79923087" seo="true" mt="1538785310851" redirect="true"/>
-  <file name="equipment.html" crc="4229110886" seo="true" mt="1538785310853" redirect="true"/>
-  <file name="overcast.html" crc="195633558" seo="true" mt="1538785310857" redirect="true"/>
-  <file name="the-fur.html" crc="487289243" seo="true" mt="1538785310860" redirect="true"/>
-  <file name="analogue.html" crc="480923118" seo="true" mt="1538785310859" redirect="true"/>
-  <file name="hazy-falls.html" crc="202808532" seo="true" mt="1538785310852" redirect="true"/>
-  <file name="photography.html" crc="34371235" seo="true" mt="1542746774898" redirect="true"/>
+  <file name="index.html" crc="236127699" seo="true" mt="1542747695963" redirect="true"/>
+  <file name="equipment.html" crc="179959501" seo="true" mt="1542747695859" redirect="true"/>
+  <file name="overcast.html" crc="324536754" seo="true" mt="1542747695886" redirect="true"/>
+  <file name="the-fur.html" crc="50559504" seo="true" mt="1542747695828" redirect="true"/>
+  <file name="analogue.html" crc="3973393250" seo="true" mt="1542747695845" redirect="true"/>
+  <file name="hazy-falls.html" crc="3907813071" seo="true" mt="1542747695873" redirect="true"/>
+  <file name="photography.html" crc="34371235" seo="true" mt="1542747695943" redirect="true"/>
   <file name="portfolio.html" crc="3970138450" seo="true" mt="1530743357036" redirect="false"/>
-  <file name="graphic-design.html" crc="231326444" seo="true" mt="1538785310850" redirect="true"/>
-  <file name="contact.html" crc="4138614219" seo="true" mt="1538786330962" redirect="true"/>
+  <file name="graphic-design.html" crc="395340586" seo="true" mt="1542747695900" redirect="true"/>
+  <file name="contact.html" crc="4291244892" seo="true" mt="1542747695920" redirect="true"/>
+  <file name="shitpost.html" crc="3930242740" seo="true" mt="1542748543608" redirect="true"/>
 </manifest>
