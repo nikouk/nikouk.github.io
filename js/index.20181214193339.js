@@ -124,6 +124,7 @@ wl.addAnimation($('.js-6')[0], "1.50s", "0.30s", 1, 0);
 wl.addAnimation($('.js-7')[0], "1.50s", "0.30s", 1, 0);
 wl.addAnimation($('.js-10')[0], "1.50s", "0.30s", 1, 0);
 wl.addAnimation($('.js-12')[0], "1.50s", "0.30s", 1, 0);
+wl.addAnimation($('.js-13')[0], "1.50s", "0.30s", 1, 0);
 wl.start();
 
 });
