@@ -60,7 +60,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 @-webkit-keyframes fadeInUp{from{opacity:0;-webkit-transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:none}}@keyframes fadeInUp{from{opacity:0;transform:translate3d(0,100%,0)}to{opacity:1;transform:none}}.fadeInUp{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}
 #body{background-color:rgb(6,6,6);}
-.pos{position:relative;margin-top:67px;}
+.pos{position:relative;margin-top:61px;}
 .vis{display:block;vertical-align:top;}
 .section{pointer-events:none;min-width:1200px;width:1200px;margin-left:auto;margin-right:auto;}
 .vis-2{display:inline-block;vertical-align:top;}
@@ -186,7 +186,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .pos-15{position:relative;margin-left:106px;margin-top:-351px;}
 .size-19{min-width:250px;width:250px;min-height:150px;height:150px;}
 .cont-17{z-index:8;border:0;background-color:transparent;}
-.pos-16{position:relative;margin-left:0;margin-top:57px;}
+.pos-16{position:relative;margin-left:0;margin-top:40px;}
 .size-20{min-width:600px;width:600px;min-height:59px;height:59px;}
 .cont-18{z-index:16;pointer-events:auto;}
 .font-6{font-family:Montserrat;font-size:18px;font-weight:300;font-style:normal;text-decoration:none;text-transform:none;color:rgb(255,255,255);background-color:initial;line-height:30px;letter-spacing:normal;text-shadow:none;}
@@ -346,8 +346,8 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .js-11 .slider{height:381px;}
 .pos-15{margin-left:60px;margin-top:-192px;}
 .size-19{min-width:134px;width:134px;min-height:81px;height:81px;}
-.pos-16{margin-left:79px;margin-top:33px;}
-.size-20{min-width:322px;width:322px;min-height:33px;height:33px;}
+.pos-16{margin-left:82px;margin-top:32px;}
+.size-20{min-width:316px;width:316px;min-height:33px;height:33px;}
 .font-6{font-size:12px;line-height:20px;}
 }
 @media (max-width:479px) {
@@ -402,7 +402,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 .js-11 .slider{height:254px;}
 .pos-15{margin-left:40px;margin-top:-128px;}
 .size-19{min-width:89px;width:89px;min-height:54px;height:54px;}
-.pos-16{margin-left:53px;margin-top:22px;}
-.size-20{min-width:214px;width:214px;min-height:22px;height:22px;}
+.pos-16{margin-left:55px;margin-top:22px;}
+.size-20{min-width:212px;width:212px;min-height:22px;height:22px;}
 .font-6{font-size:8px;line-height:14px;}
 }
