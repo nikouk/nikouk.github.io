@@ -1,109 +1,69 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="travelprofessionals.co.uk" resolutions="1x,2x" timestamp="1544984483761">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikouk.co.uk" resolutions="1x,2x" timestamp="1571952417831">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="182991994" ref="index"/>
-    <file name="about-us.css" crc="4193191577" ref="about-us"/>
-    <file name="offers.css" crc="4193191577" ref="offers"/>
-    <file name="destinations.css" crc="4193191577" ref="destinations"/>
-    <file name="useful-links.css" crc="4193191577" ref="useful-links"/>
-    <file name="contact-us.css" crc="4193191577" ref="contact-us"/>
-    <file name="blog.css" crc="4193191577" ref="blog"/>
+    <file name="ttp-dark.css" crc="234613718" ref="ttp-dark"/>
+    <file name="ttp-light.css" crc="518051188" ref="ttp-light"/>
+    <file name="index.css" crc="4193191577" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:destinations:blog:about-us:offers:contact-us:useful-links"/>
-    <file name="museutils.js" crc="17924269" ref="index:destinations:blog:about-us:offers:contact-us:useful-links"/>
-    <file name="whatinput.js" crc="86476730" ref="index:destinations:blog:about-us:offers:contact-us:useful-links"/>
-    <file name="museconfig.js" crc="144853533" ref="index:destinations:blog:about-us:offers:contact-us:useful-links"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:destinations:blog:about-us:offers:contact-us:useful-links"/>
-    <file name="webpro.js" crc="416662029" ref="index"/>
-    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
-    <file name="touchswipe.js" crc="432264157" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:destinations:blog:about-us:offers:contact-us:useful-links"/>
-    <file name="require.js" crc="3861931657" ref="index:destinations:blog:about-us:offers:contact-us:useful-links"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="ttp-light:ttp-dark:index"/>
+    <file name="museutils.js" crc="17924269" ref="ttp-light:ttp-dark:index"/>
+    <file name="whatinput.js" crc="86476730" ref="ttp-light:ttp-dark:index"/>
+    <file name="museconfig.js" crc="144853533" ref="ttp-light:ttp-dark:index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="ttp-light:ttp-dark:index"/>
+    <file name="require.js" crc="3861931657" ref="ttp-light:ttp-dark:index"/>
   </folder>
   <folder name="images">
-    <file name="tp2.jpg" crc="426498496" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="u362-4.png" crc="379699325" ref="ttp-light"/>
+    <file name="u362-4_2x.png" crc="480378392" ref="ttp-light"/>
+    <file name="u368-4.png" crc="209013278" ref="ttp-light"/>
+    <file name="u368-4_2x.png" crc="3770191659" ref="ttp-light"/>
+    <file name="u369-4.png" crc="4275850500" ref="ttp-light"/>
+    <file name="u369-4_2x.png" crc="4178143534" ref="ttp-light"/>
+    <file name="u370-4.png" crc="25496989" ref="ttp-light"/>
+    <file name="u370-4_2x.png" crc="61125615" ref="ttp-light"/>
+    <file name="pasted-svg-596514x292.svg" crc="198812229" seo="true" ref="ttp-light">
+      <caption webpage="ttp-light" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="tp3.jpg" crc="51042414" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="pasted svg 596514x292_poster_.png" crc="487433641" ref="ttp-light"/>
+    <file name="pasted image 1024x681-crop-u366.jpg" crc="4039123786" seo="true" ref="ttp-light">
+      <caption webpage="ttp-light" alt=""/>
     </file>
-    <file name="tp4.jpg" crc="231763324" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="pasted image 916x516-crop-u364.jpg" crc="422585557" seo="true" ref="ttp-light">
+      <caption webpage="ttp-light" alt=""/>
     </file>
-    <file name="tp5.jpg" crc="332212839" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="pasted image 1200x900-crop-u357.jpg" crc="159119554" seo="true" ref="ttp-light">
+      <caption webpage="ttp-light" alt=""/>
     </file>
-    <file name="tp6.jpg" crc="3884304251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="pasted image 1200x900-crop-u357_2x.jpg" crc="390831299" seo="true" ref="ttp-light">
+      <caption webpage="ttp-light" alt=""/>
     </file>
-    <file name="tp7.jpg" crc="3873338645" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="u490-4.png" crc="140931601" ref="ttp-dark"/>
+    <file name="u490-4_2x.png" crc="502848424" ref="ttp-dark"/>
+    <file name="u494-4.png" crc="83087135" ref="ttp-dark"/>
+    <file name="u494-4_2x.png" crc="3816375302" ref="ttp-dark"/>
+    <file name="u500-4.png" crc="250967415" ref="ttp-dark"/>
+    <file name="u500-4_2x.png" crc="3958352718" ref="ttp-dark"/>
+    <file name="u487-4.png" crc="173508105" ref="ttp-dark"/>
+    <file name="u487-4_2x.png" crc="4085003809" ref="ttp-dark"/>
+    <file name="pasted-svg-596514x2922.svg" crc="287383876" seo="true" ref="ttp-dark">
+      <caption webpage="ttp-dark" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="pasted-svg-527.svg" crc="238236715" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="pasted svg 596514x292_poster_2.png" crc="4099476639" ref="ttp-dark"/>
+    <file name="pasted image 1024x681-crop-u497.jpg" crc="4039123786" seo="true" ref="ttp-dark">
+      <caption webpage="ttp-dark" alt=""/>
     </file>
-    <file name="pasted svg 527_poster_.png" crc="3896007449" ref="index"/>
-    <file name="u926.png" crc="466478518" ref="index"/>
-    <file name="u926_2x.png" crc="396517432" ref="index"/>
-    <file name="u926-r.png" crc="4054758426" ref="index"/>
-    <file name="u926-r_2x.png" crc="3820923188" ref="index"/>
-    <file name="u918.png" crc="344769053" ref="index"/>
-    <file name="u918_2x.png" crc="357551785" ref="index"/>
-    <file name="u918-r.png" crc="178326023" ref="index"/>
-    <file name="u918-r_2x.png" crc="4086460218" ref="index"/>
-    <file name="u912.png" crc="4269410089" ref="index"/>
-    <file name="u912_2x.png" crc="347824737" ref="index"/>
-    <file name="u912-r.png" crc="4041510504" ref="index"/>
-    <file name="u912-r_2x.png" crc="390632698" ref="index"/>
-    <file name="u1038.png" crc="483925461" ref="index"/>
-    <file name="u1038_2x.png" crc="4000134275" ref="index"/>
-    <file name="u1038-r.png" crc="3766865348" ref="index"/>
-    <file name="u1038-r_2x.png" crc="140074617" ref="index"/>
-    <file name="u898.png" crc="116496241" ref="index"/>
-    <file name="u898_2x.png" crc="3805725794" ref="index"/>
-    <file name="u898-r.png" crc="3765469858" ref="index"/>
-    <file name="u898-r_2x.png" crc="463378506" ref="index"/>
-    <file name="u903.png" crc="190312049" ref="index"/>
-    <file name="u903_2x.png" crc="4201946584" ref="index"/>
-    <file name="u903-r.png" crc="4149782641" ref="index"/>
-    <file name="u903-r_2x.png" crc="195918795" ref="index"/>
-    <file name="u713.png" crc="3980199881" ref="index"/>
-    <file name="u713_2x.png" crc="3855397087" ref="index"/>
-    <file name="u713-r.png" crc="3980199881" ref="index"/>
-    <file name="u713-r_2x.png" crc="3855397087" ref="index"/>
-    <file name="u1230-4.png" crc="3801927500" ref="index"/>
-    <file name="u1230-4_2x.png" crc="4037095695" ref="index"/>
-    <file name="u1108.png" crc="4223814439" ref="index"/>
-    <file name="u1108_2x.png" crc="3971166554" ref="index"/>
-    <file name="u1108-r.png" crc="4195092813" ref="index"/>
-    <file name="u1108-r_2x.png" crc="3992958528" ref="index"/>
-    <file name="pasted-svg-109333x61.svg" crc="3810196107" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="pasted image 916x516-crop-u485.jpg" crc="422585557" seo="true" ref="ttp-dark">
+      <caption webpage="ttp-dark" alt=""/>
     </file>
-    <file name="pasted svg 109333x61_poster_.png" crc="438130289" ref="index"/>
-    <file name="u1203.png" crc="4046498827" ref="index"/>
-    <file name="u1203_2x.png" crc="4277230038" ref="index"/>
-    <file name="u1203-r.png" crc="3827279402" ref="index"/>
-    <file name="u1203-r_2x.png" crc="392925367" ref="index"/>
-    <file name="u1298.png" crc="4278278977" ref="index"/>
-    <file name="u1298_2x.png" crc="89989406" ref="index"/>
-    <file name="u1298-r.png" crc="89272592" ref="index"/>
-    <file name="u1298-r_2x.png" crc="307474394" ref="index"/>
-    <file name="u1010-8.png" crc="276986347" ref="index"/>
-    <file name="u1010-8_2x.png" crc="144645575" ref="index"/>
+    <file name="pasted image 1200x900-crop-u491.jpg" crc="159119554" seo="true" ref="ttp-dark">
+      <caption webpage="ttp-dark" alt=""/>
+    </file>
+    <file name="pasted image 1200x900-crop-u491_2x.jpg" crc="390831299" seo="true" ref="ttp-dark">
+      <caption webpage="ttp-dark" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3880193190" seo="true" mt="1544984298175" redirect="true"/>
-  <file name="destinations.html" crc="3924449809" seo="true" mt="1543007329771" redirect="false"/>
-  <file name="blog.html" crc="125257447" seo="true" mt="1543007337667" redirect="false"/>
-  <file name="about-us.html" crc="448539263" seo="true" mt="1543007304463" redirect="false"/>
-  <file name="offers.html" crc="392153496" seo="true" mt="1543007341113" redirect="false"/>
-  <file name="contact-us.html" crc="3895981812" seo="true" mt="1543007354926" redirect="false"/>
-  <file name="useful-links.html" crc="3977697382" seo="true" mt="1543147129523" redirect="false"/>
+  <file name="ttp-light.html" crc="366194798" seo="true" mt="1571952407377" redirect="true"/>
+  <file name="ttp-dark.html" crc="4073743919" seo="true" mt="1571952411692" redirect="true"/>
+  <file name="index.html" crc="111086859" seo="true" mt="1571952400348" redirect="false"/>
 </manifest>

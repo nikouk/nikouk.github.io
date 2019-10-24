@@ -1,4 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://nikouk.co.uk/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://nikouk.co.uk/index.html</loc>
+    <lastmod>2019-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nikouk.co.uk/ttp-light.html</loc>
+    <lastmod>2019-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted-svg-596514x292.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted%20image%201024x681-crop-u366.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted%20image%20916x516-crop-u364.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted%20image%201200x900-crop-u357.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted%20image%201200x900-crop-u357_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nikouk.co.uk/ttp-dark.html</loc>
+    <lastmod>2019-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted-svg-596514x2922.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted%20image%201024x681-crop-u497.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted%20image%20916x516-crop-u485.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted%20image%201200x900-crop-u491.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikouk.co.uk/images/pasted%20image%201200x900-crop-u491_2x.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
