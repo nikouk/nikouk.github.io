@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /images/
-Disallow: /download/
+Disallow:
 
-Sitemap: http://nikouk.co.uk/sitemap.xml
+Sitemap: http://www.nikouk.co.uk/sitemap.xml
